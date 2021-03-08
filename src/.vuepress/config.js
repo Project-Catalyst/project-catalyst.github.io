@@ -20,7 +20,7 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
-  dest: '../static',
+  dest: 'html',
 
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
@@ -35,17 +35,26 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Community Advisors',
+        link: '/community-advisor/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Funds',
+        link: '/funds/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+        text: 'Proposers',
+        link: '/proposers/'
+      },
+      {
+        text: 'Tools',
+        link: '/tools/'
+      },
+      {
+        text: 'Voters',
+        link: '/voters/'
+      },
+      
     ],
     sidebar: {
       '/guide/': [
