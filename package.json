@@ -1,6 +1,6 @@
 {
   "name": "@catalyst/community-site",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "A landing page for everyone who wants to know about Project Catalyst. A hub gathering information and linking to other resources in the Cardano ecosystem",
   "main": "index.js",
   "authors": {
@@ -9,8 +9,8 @@
   },
   "repository": "https://github.com/Project-Catalyst/catalyst.git",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "cp ./src/.vuepress/config.dev.js ./src/.vuepress/config.js && vuepress dev src",
+    "build": "cp ./src/.vuepress/config.prod.js ./src/.vuepress/config.js && vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
