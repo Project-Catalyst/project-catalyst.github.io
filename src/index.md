@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: /assets/project_catalyst_logo.jpg
+heroImage: https://avatars.githubusercontent.com/u/79784766?s=400&u=51b65ef6f530a0d0bf4067deffe167c9cb2ce2cc&v=4
 tagline: Project Catalyst is a series of experiments which seeks to generate the highest levels of community innovation. Catalyst is bringing on-chain governance to the Cardano blockchain by allowing the community to self-determine priorities for growth. It also lets participants deploy funding to proposals which tackle challenges and capitalize on opportunities that arise in the life cycle of Cardano.
 
-actionText: Read more
+actionText: Read more >
 actionLink: /docs/project_catalyst_faq.md
 features:
 - title: What is a Proposer?
