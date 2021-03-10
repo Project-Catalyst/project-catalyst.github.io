@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#base
    */
-  base: "https://project-catalyst.github.io/",
+  base: "",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
