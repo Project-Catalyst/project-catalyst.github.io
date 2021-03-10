@@ -2,10 +2,7 @@ name: Project Catalyst Node.js CI
 
 on:
   push:
-    branches: [ deploy ]
-  pull_request:
-    branches: [ deploy ]
-
+    branches: [ main ]
 jobs:
   build:
 
