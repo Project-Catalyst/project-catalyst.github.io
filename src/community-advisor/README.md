@@ -1,6 +1,8 @@
 # Community Advisor Guide
 
-## The purpose of Community Advisors is to: ![](RackMultipart20210309-4-1qqgu82_html_e0fabe484f280ef.jpg)
+[[toc]]
+
+## The purpose of Community Advisors is to:
 
 1. Provide a perspective that helps voters make good, informed decisions regarding which proposals to fund.
 2. Provide proposers with feedback that helps their ideas be more [impactful](#_gtgwcs4t8gur), [auditable](#_g0kvnig8iw4) and [feasible](#_m3lcnbfro3wx).
