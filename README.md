@@ -28,5 +28,7 @@ This site is built using [Vuepress](https://vuepress.vuejs.org/)
 
 * To build a complete static site run `npm run build`, the result is generated in *static* in the main project directory
 
+### Github Actions
 
-... to be continued
+There is a simple node.js action configured in `.github/workflows/node.js.yml` which will build the static site every time new content is pushed to 
+the site.
