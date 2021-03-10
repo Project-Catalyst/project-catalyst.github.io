@@ -51,12 +51,12 @@ module.exports = {
         link: '/proposers/'
       },
       {
-        text: 'Tools',
-        link: '/tools/'
-      },
-      {
         text: 'Voters',
         link: '/voters/'
+      },
+      {
+        text: 'FAQ',
+        link: '/tools/'
       },
       
     ],

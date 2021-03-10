@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#base
    */
-  // base: "https://project-catalyst.github.io/",
+  base: "https://project-catalyst.github.io/",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -51,12 +51,12 @@ module.exports = {
         link: '/proposers/'
       },
       {
-        text: 'Tools',
-        link: '/tools/'
-      },
-      {
         text: 'Voters',
         link: '/voters/'
+      },
+      {
+        text: 'FAQ',
+        link: '/tools/'
       },
       
     ],
