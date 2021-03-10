@@ -8,17 +8,16 @@ actionLink: /docs/project_catalyst_faq.md
 features:
 - title: What is a Proposer?
   details: Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people, ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
-  
+
 - title: What is a Voter?
   details:   Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
-  
+
 - title: Whats is a Community Advisor?
   details: Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
-  
+
 
 footer: Made by Catalyst Community with ❤️
 ---
-
 <span style="text-align:center">
 
 | [Resources for proposers](proposers/README.md) | [Resources for voters](voters/README.md) | [Resources for Community Advisors](community-advisor/README.md) |
