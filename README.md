@@ -30,5 +30,4 @@ This site is built using [Vuepress](https://vuepress.vuejs.org/)
 
 ### Github Actions
 
-There is a simple node.js action configured in `.github/workflows/node.js.yml` which will build the static site every time new content is pushed to 
-the site.
+There is a simple node.js action configured in `.github/workflows/node.js.yml` which will build the static site every time new content is pushed to the site.
