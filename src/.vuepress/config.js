@@ -2,6 +2,10 @@ const { description } = require('../../package')
 
 module.exports = {
   /**
+   * Ref：https://v1.vuepress.vuejs.org/config/#base
+   */
+  base: "https://project-catalyst.github.io/",
+  /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'Cardano Catalyst Community Site',
