@@ -1,5 +1,7 @@
 # What is Catalyst Fund3
 
+[[toc]]
+
 Catalyst Fund3 is the (experimental) stage of a decentralized funding mechanism for the Cardano ecosystem which is next to the Catalyst Fund2 stage. It is a fund filled up by a portion of Cardano epoch rewards, and can be spent to implement different proposals. The decision how to distribute the fund is made by Cardano stakeholders participating in the Catalyst project through a decentralized voting procedure. There is no voting privacy in the current version of protocol yet.
 
 There are several main types of participants in Fund3. _Proposers_ are those who request funding from the treasury by submitting proposals. _Voters_ are registered stakeholders who decide on proposals. _Community advisers_ are reputable community members who initially evaluate proposals before providing them to voters. _Referrers_ are those who give recommendations to proposers what kind of proposal it is better to submit.
