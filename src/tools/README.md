@@ -1,4 +1,4 @@
-# FAQ
+# Project Catalyst FAQ
 Project Catalyst FAQ [original source](https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/)
 
 ## What is Project Catalyst?

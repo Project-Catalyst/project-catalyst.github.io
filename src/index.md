@@ -6,13 +6,13 @@ tagline: Project Catalyst is a series of experiments which seeks to generate the
 actionText: Read more >
 actionLink: /docs/
 features:
-- title: What is a Proposer?
+- title: Who is a Proposer?
   details: Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people, ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
 
-- title: What is a Voter?
+- title: Who is a Voter?
   details:   Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
 
-- title: Whats is a Community Advisor?
+- title: Who is a Community Advisor?
   details: Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
 
 
