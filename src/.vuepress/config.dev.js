@@ -39,14 +39,6 @@ module.exports = {
     lastUpdated: true,
     nav: [
       {
-        text: 'Community Advisors',
-        link: '/community-advisor/',
-      },
-      {
-        text: 'Funds',
-        link: '/funds/'
-      },
-      {
         text: 'Proposers',
         link: '/proposers/'
       },
@@ -55,8 +47,20 @@ module.exports = {
         link: '/voters/'
       },
       {
+        text: 'Community Advisors',
+        link: '/community-advisor/',
+      },
+      {
+        text: 'Funds',
+        link: '/funds/'
+      },
+      {
+        text: 'Resources',
+        link: '/resources/'
+      },
+      {
         text: 'FAQ',
-        link: '/tools/'
+        link: '/faq/'
       },
       
     ],
