@@ -1,4 +1,3 @@
 html
 node_modules
 src/.vuepress/config.js
-package-lock.json
