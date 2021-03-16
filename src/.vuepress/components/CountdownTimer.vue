@@ -1,5 +1,5 @@
 <template>
-    <v-sheet elevation="1" rounded>
+    <v-sheet elevation="1" rounded :class="expired ? 'expired':''">
         <span class="title">
             {{title}}
         </span>
@@ -67,24 +67,26 @@
             return {
                 countdownDT: null,
                 parseException: false,
-                currentDT:null
+                currentDT:null,
+                intervalID:null,
+                expired:false
             };
         },
         computed: {
             daysLeft: function () {
-                if (this.countdownDT === null || this.currentDT === null) return 0;
+                if (this.countdownDT === null || this.currentDT === null || this.currentDT.isAfter(this.countdownDT)) return 0;
                 return this.currentDT.until(this.countdownDT, ChronoUnit.DAYS)
             },
             hoursLeft: function () {
-                if (this.countdownDT === null || this.currentDT === null) return 0;
+                if (this.countdownDT === null || this.currentDT === null || this.currentDT.isAfter(this.countdownDT)) return 0;
                 return this.currentDT.until(this.countdownDT.minusDays(this.daysLeft), ChronoUnit.HOURS)
             },
             minutesLeft: function () {
-                if (this.countdownDT === null || this.currentDT === null) return 0;
+                if (this.countdownDT === null || this.currentDT === null || this.currentDT.isAfter(this.countdownDT)) return 0;
                 return this.currentDT.until(this.countdownDT.minusDays(this.daysLeft).minusHours(this.hoursLeft), ChronoUnit.MINUTES)
             },
             secondsLeft: function () {
-                if (this.countdownDT === null || this.currentDT === null) return 0;
+                if (this.countdownDT === null || this.currentDT === null || this.currentDT.isAfter(this.countdownDT)) return 0;
                 return this.currentDT.until(this.countdownDT.minusDays(this.daysLeft).minusHours(this.hoursLeft).minusMinutes(this.minutesLeft), ChronoUnit.SECONDS)
             },
         },
@@ -98,9 +100,13 @@
             try {
                 this.countdownDT = LocalDateTime.parse(this.$props.date);
                 const self = this
-                setInterval(function(){
-                    self.currentDT = LocalDateTime.now()
-                },1000)
+                if(this.countdownDT.isAfter(LocalDateTime.now())){
+                    self.intervalID = setInterval(function(){
+                        self.currentDT = LocalDateTime.now()
+                    },1000)
+                }else{
+                    this.expired=true;
+                }
             } catch (e) {
                 if (e instanceof DateTimeParseException) {
                     self.parseException = true;
@@ -125,6 +131,9 @@
     font-weight: bolder;
     text-align: center;
     font-size:1.5rem;
+}
+.expired .title{
+    background-color: #555555;
 }
 .title:last-of-type{
    padding-bottom:0.5rem; 
