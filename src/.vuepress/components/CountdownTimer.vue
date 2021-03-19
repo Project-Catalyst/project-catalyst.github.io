@@ -100,9 +100,9 @@
             try {
                 this.countdownDT = LocalDateTime.parse(this.$props.date);
                 const self = this
-                if(this.countdownDT.isAfter(LocalDateTime.now())){
+                if(this.countdownDT.isAfter(LocalDateTime.now(ZoneOffset.UTC))){
                     self.intervalID = setInterval(function(){
-                        self.currentDT = LocalDateTime.now()
+                        self.currentDT = LocalDateTime.now(ZoneOffset.UTC)
                     },1000)
                 }else{
                     this.expired=true;
