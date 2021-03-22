@@ -23,11 +23,12 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title=CA Guide"
+    title="CA Guide"
     subtitle="Official - Project Catalyst"
     url=“/community-advisor/guide.html”
+    target="_self"
     linkText="Go to Page"
-    text="Informaion for Community Advisors (CA). " />
+    text="Information for Community Advisors (CA). " />
 
 <ResourceCard
     class="resourceCard"

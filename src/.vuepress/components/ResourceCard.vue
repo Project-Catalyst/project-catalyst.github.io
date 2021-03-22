@@ -6,7 +6,7 @@
       {{text}}
     </v-card-text>
     <v-card-actions class="bottom-cards">
-      <v-btn :href="url" target="_blank">{{linkText}}</v-btn>
+      <v-btn :href="url" :target="target === undefined ? '_blank' : target">{{linkText}}</v-btn>
     </v-card-actions>
 </v-card>
 </template>
@@ -36,6 +36,10 @@
         url: {
                 type: String,
                 required: true,
+        },
+        target: {
+                type: String,
+                required: false,
         },
      },
     data() {

@@ -10,7 +10,7 @@
 
 <CountdownTimer title="Fund 4 - Assess QA ends"
                 date="2021-03-31T22:00"/>
-<div style="margin:2rem;">
+<div style="margin:0.5rem;">
 
 | Fund | Phase      | Stage                       | Duration        | Start DATE  | Start UTC | END Date    |
 | ---- | ---------- | --------------------------- | --------------- | ----------- | --------- | ----------- |
