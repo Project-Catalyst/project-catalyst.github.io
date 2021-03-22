@@ -1,15 +1,18 @@
 # Funds
-
-<CountdownTimer title="Fund 4 - Finalize Proposals ends"
-                subtitle="Fund 4 - Review Proposals / Assess starts"
-                date="2021-03-17T22:00"/>
-
 <CountdownTimer title="Fund 4 Review Proposals / Assess ends"
                 subtitle="Fund 4 - Assess QA starts"
                 date="2021-03-24T22:00"/>
 
 <CountdownTimer title="Fund 4 - Assess QA ends"
                 date="2021-03-31T22:00"/>
+
+<CountdownTimer title="Fund 4"
+                subtitle="Register proposals + Voters starts"
+                date="2021-04-07T19:00"/>
+                
+<CountdownTimer title="Fund 4"
+                subtitle="Register proposals + Voters ends"
+                date="2021-04-14T19:00"/>
 <div style="margin:0.5rem;">
 
 | Fund | Phase      | Stage                       | Duration        | Start DATE  | Start UTC | END Date    |
