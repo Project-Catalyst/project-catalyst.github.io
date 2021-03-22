@@ -16,16 +16,18 @@
     headerColor="#001D9D"
     title="Fund timeline"
     subtitle=""
-    url=""
+    url="/funds/"
+    target="_self"
     linkText="Go to Page"
-    text="A timeline of how a funds lifecycle. " />
+    text="A timeline of how a funds lifecycle." />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
     title="Voter Guide"
     subtitle="Official - Project Catalyst (Fund 3)"
-    url=“/voters/fund3md.html”
+    url=“/voters/fund3.html”
+    target="_self"
     linkText="Go to Page"
     text="Information for voting in Project Catalyst. " />
 

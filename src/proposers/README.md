@@ -25,7 +25,8 @@
     headerColor="#0088CC"
     title="Proposer Guide"
     subtitle="Official - Project Catalyst"
-    url=“/proposers/proposers.html”
+    url="/proposers/guide.html"
+    target="_self"
     linkText="Go to Page"
     text="Informaion about proposing in Project Catalyst. " />
 
@@ -52,7 +53,8 @@
     headerColor="#0088CC"
     title="CA Roles & responsibilities"
     subtitle=""
-    url=""
+    url="/community-advisor/"
+    target="_self"
     linkText="Go to Page"
     text="Explanation of Community Advisor (CA) roles and responsibilities " />
 
