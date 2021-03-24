@@ -25,7 +25,7 @@
     headerColor="#0088CC"
     title="CA Guide"
     subtitle="Official - Project Catalyst"
-    url=“/community-advisor/guide.html”
+    url="/community-advisor/guide.html"
     target="_self"
     linkText="Go to Page"
     text="Information for Community Advisors (CA). " />
@@ -35,7 +35,7 @@
     headerColor="#0088CC"
     title="Project Catalyst Community Advisors"
     subtitle="Official - Discord"
-    url="https://discord.gg/vKYQeAYr"
+    url="https://discord.gg/uPv97TvGvC"
     linkText="Go to Page"
     text="This discord server holds the intention of providing  Virtual-Breakout-Rooms for your discussions about the Cardano Catalyst Project,  and more specifically about the Proposals. " />
 </div>
