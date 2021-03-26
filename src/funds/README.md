@@ -3,10 +3,6 @@
 The following information is provided as is. Despite our best efforts to ensure accuracy there is no guarantee that the information is current. Changes will happen from time to time and we will endeavors to update the information in as timely manner as practical. If you notice any inaccuracies please feel free to contact us.
 </div>
 
-<CountdownTimer title="Fund 4 Review Proposals / Assess ends"
-                subtitle="Fund 4 - Assess QA starts"
-                date="2021-03-24T22:00"/>
-
 <CountdownTimer title="Fund 4 - Assess QA ends"
                 date="2021-03-31T22:00"/>
 
@@ -14,9 +10,14 @@ The following information is provided as is. Despite our best efforts to ensure 
                 subtitle="Register proposals + Voters starts"
                 date="2021-04-07T19:00"/>
 
+<CountdownTimer title="Fund 5"
+                subtitle="Proposal Submission starts"
+                date="2021-04-07T19:00"/>
+
 <CountdownTimer title="Fund 4"
                 subtitle="Register proposals + Voters ends"
                 date="2021-04-14T19:00"/>
+
 <div style="margin:0.5rem;">
 
 | Fund | Phase      | Stage                                                  | Duration        | Start DATE  | Start UTC | END Date    |
