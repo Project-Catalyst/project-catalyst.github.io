@@ -18,6 +18,7 @@ The following information is provided as is. Despite our best efforts to ensure 
                 subtitle="Register proposals + Voters ends"
                 date="2021-04-14T19:00"/>
 <div style="margin:0.5rem;">
+
 | Fund | Phase      | Stage                                                  | Duration        | Start DATE  | Start UTC | END Date    |
 | ---- | ---------- | ------------------------------------------------------ | --------------- | ----------- | --------- | ----------- |
 | F3   | Innovation | Insight sharing                                        | 7               | 6-Jan-2021  | 21:00     |             |
