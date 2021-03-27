@@ -33,6 +33,16 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
+    title="Proposer Guide By Tevo Saks"
+    subtitle="Guide created by Community member"
+    url="/proposers/groposal_guide.html"
+    target="_self"
+    linkText="Go to Page"
+    text="Created a document what follows trough the thinking process of creating proposals." />
+
+<ResourceCard
+    class="resourceCard"
+    headerColor="#0088CC"
     title="Project Catalst Proposers"
     subtitle="Official - t.me/catalystproposers"
     url="https://t.me/catalystproposers"
