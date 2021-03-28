@@ -25,7 +25,7 @@ Anyone can participate in Project Catalyst. Ada-holders, and those new to Cardan
 The program consists of five key phases; innovation, governance and execution
 
 ### Innovation phase
-* **Challenge refinement**— Share your perspective on the challenge: facts, anecdotes, examples, opinions, wild ideas. [Instructions in detail](https://docs.google.com/document/d/1bSZaeICuyVnpvbgJDB4elENUF9Pv7MGrPTdmjOMPSEo/edit])
+* **Challenge refinement**— Share your perspective on the challenge: facts, anecdotes, examples, opinions, wild ideas. [Instructions in detail](https://docs.google.com/document/d/1bSZaeICuyVnpvbgJDB4elENUF9Pv7MGrPTdmjOMPSEo/edit)
 * **Ideate** — Submit initial proposal ideas. Give feedback, follow promising ideas, join forces.
 * **Refine** — Provide proposers feedback on how they can increase the Impact,  Auditability and Feasibility of their idea.
 * **Finalize** — Turn refined ideas into proposals ready for the vote.
