@@ -1,6 +1,6 @@
 # Funds
 <div>
-The following information is provided as is. Despite our best efforts to ensure accuracy there is no guarantee that the information is current. Changes will happen from time to time and we will endeavors to update the information in as timely manner as practical. If you notice any inaccuracies please feel free to contact us.
+The following information is provided as is. Despite our best efforts to ensure accuracy there is no guarantee that the information is current. Changes will happen from time to time and we will endeavor to update the information in as timely manner as practical. If you notice any inaccuracies please feel free to contact us.
 </div>
 
 <CountdownTimer title="Fund 4 - Assess QA ends"
