@@ -3,20 +3,33 @@
 The following information is provided as is. Despite our best efforts to ensure accuracy there is no guarantee that the information is current. Changes will happen from time to time and we will endeavor to update the information in as timely manner as practical. If you notice any inaccuracies please feel free to contact us.
 </div>
 
-<CountdownTimer title="Fund 4 - Assess QA ends"
+# FUND 4
+
+<CountdownTimer title="Fund 4 - INNOVATION"
+                subtitle=" Assess QA - END"
                 date="2021-03-31T22:00"/>
 
-<CountdownTimer title="Fund 4"
-                subtitle="Register proposals + Voters starts"
-                date="2021-04-07T19:00"/>
+<CountdownTimer title="Fund 4 - GOVERNANCE"
+                subtitle="Balance Snapshot - END"
+                date="2021-04-17T19:00"/>
 
-<CountdownTimer title="Fund 5"
-                subtitle="Proposal Submission starts"
-                date="2021-04-07T19:00"/>
+<CountdownTimer title="Fund 4 - GOVERNANCE"
+                subtitle="Voting - START"
+                date="2021-04-16T19:00"/>
 
-<CountdownTimer title="Fund 4"
-                subtitle="Register proposals + Voters ends"
-                date="2021-04-14T19:00"/>
+<CountdownTimer title="Fund 4 - GOVERNANCE"
+                subtitle="Voting - END"
+                date="2021-05-06T19:00"/>
+
+# FUND 5
+
+<CountdownTimer title="Fund 5 - INNOVATION"
+                subtitle="Proposal Submission - START"
+                date="2021-04-07T19:00"/>
+<CountdownTimer title="Fund 5 - INNOVATION"
+                subtitle="Finalize Proposals / CA Registration - END"
+                date="2021-04-28T19:00"/>
+
 
 <div style="margin:0.5rem;">
 
