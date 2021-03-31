@@ -25,12 +25,12 @@ Anyone can participate in Project Catalyst. Ada-holders, and those new to Cardan
 The program consists of five key phases; innovation, governance and execution
 
 ### Innovation phase
-**Challenge refinement**— Share your perspective on the challenge: facts, anecdotes, examples, opinions, wild ideas. [Instructions in detail](https://docs.google.com/document/d/1bSZaeICuyVnpvbgJDB4elENUF9Pv7MGrPTdmjOMPSEo/edit])
-**Ideate** — Submit initial proposal ideas. Give feedback, follow promising ideas, join forces.
-**Refine** — Provide proposers feedback on how they can increase the Impact,  Auditability and Feasibility of their idea.
-**Finalize** — Turn refined ideas into proposals ready for the vote.
-**Assess** — Community advisors review while the community reflects on how to improve proposals and process for their next iteration.
-**Voter discussion** — View proposals in the voting app. Discussion is now about which proposals should be funded, and Q&A with proposers,  rather than how to improve them further.
+* **Challenge refinement**— Share your perspective on the challenge: facts, anecdotes, examples, opinions, wild ideas. [Instructions in detail](https://docs.google.com/document/d/1bSZaeICuyVnpvbgJDB4elENUF9Pv7MGrPTdmjOMPSEo/edit)
+* **Ideate** — Submit initial proposal ideas. Give feedback, follow promising ideas, join forces.
+* **Refine** — Provide proposers feedback on how they can increase the Impact,  Auditability and Feasibility of their idea.
+* **Finalize** — Turn refined ideas into proposals ready for the vote.
+* **Assess** — Community advisors review while the community reflects on how to improve proposals and process for their next iteration.
+* **Voter discussion** — View proposals in the voting app. Discussion is now about which proposals should be funded, and Q&A with proposers,  rather than how to improve them further.
 
 ### Fund3 innovation phase timeline
 * Challenge refinement phase: Jan 6th -Jan 13
