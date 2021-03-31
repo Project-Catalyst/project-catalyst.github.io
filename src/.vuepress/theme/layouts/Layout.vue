@@ -7,6 +7,10 @@
     @touchend="onTouchEnd"
   >
   <marquee-text :repeat="10" style="background-color:red">
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
     <a href="/news/#when-will-hardware-wallet-voting-support-will-be-available">
       When will hardware wallet voting support will be available?
     </a>
