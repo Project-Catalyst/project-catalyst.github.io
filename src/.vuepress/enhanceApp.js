@@ -1,6 +1,5 @@
 import Vuetify from "vuetify"
 import "vuetify/dist/vuetify.min.css"
-
 /**
  * Client app enhancement file.
  *
@@ -14,6 +13,6 @@ export default ({
   siteData // site metadata
 }) => {
   // ...apply enhancements for the site.
-  Vue.use(Vuetify);
+  Vue.use(Vuetify)
   options.vuetify = new Vuetify({})
 }

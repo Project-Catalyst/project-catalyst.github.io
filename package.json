@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@js-joda/core": "^3.2.0",
+    "vue-marquee-text-component": "^1.2.0",
     "vuetify": "^2.4.6"
   }
 }
