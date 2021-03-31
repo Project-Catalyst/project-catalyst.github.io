@@ -18,6 +18,7 @@ features:
 
 footer: Made by Catalyst Community with ❤️
 ---
+
 <span style="text-align:center">
 
 | [Resources for proposers](proposers/README.md) | [Resources for voters](voters/README.md) | [Resources for Community Advisors](community-advisor/README.md) |
