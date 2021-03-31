@@ -10,6 +10,14 @@ The following information is provided as is. Despite our best efforts to ensure 
                 date="2021-03-31T22:00"/>
 
 <CountdownTimer title="Fund 4 - GOVERNANCE"
+                subtitle="Voter Registration - START"
+                date="2021-04-06T19:00"/>
+
+<CountdownTimer title="Fund 4 - GOVERNANCE"
+                subtitle="Voter Registration - END"
+                date="2021-04-13T19:00"/>
+
+<CountdownTimer title="Fund 4 - GOVERNANCE"
                 subtitle="Balance Snapshot - END"
                 date="2021-04-17T19:00"/>
 
