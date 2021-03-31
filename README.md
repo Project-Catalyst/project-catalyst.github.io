@@ -32,7 +32,9 @@ This site is built using [Vuepress](https://vuepress.vuejs.org/)
 
 There is a simple node.js action configured in `.github/workflows/node.js.yml` which will build the static site every time new content is pushed to the site.
 
-##Componets used on this site:
-Vuepress - Content and strucutre
-i18n - Langugae/localisation
-tailwind - CSS design (to be implimented)
+## Libraries used on this site:
+* Vuepress - Content and structure [page](https://vuepress.vuejs.org/)
+* Vuetify - components and layout [page](https://vuetifyjs.com/en/)
+* js-joda - time travel and other shenanigans [page](https://github.com/js-joda/js-joda)
+<!-- * i18n - Language/localization -->
+<!-- * tailwind - CSS design (to be implemented) -->
