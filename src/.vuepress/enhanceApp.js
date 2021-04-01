@@ -1,5 +1,6 @@
 import Vuetify from "vuetify"
 import "vuetify/dist/vuetify.min.css"
+
 /**
  * Client app enhancement file.
  *

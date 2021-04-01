@@ -36,5 +36,6 @@ There is a simple node.js action configured in `.github/workflows/node.js.yml` w
 * Vuepress - Content and structure [page](https://vuepress.vuejs.org/)
 * Vuetify - components and layout [page](https://vuetifyjs.com/en/)
 * js-joda - time travel and other shenanigans [page](https://github.com/js-joda/js-joda)
+* vue-marquee-text-component - marquee, due to intergration problems, we are just using the actual component, not the whole the package
 <!-- * i18n - Language/localization -->
 <!-- * tailwind - CSS design (to be implemented) -->
