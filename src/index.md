@@ -24,3 +24,10 @@ footer: Made by Catalyst Community with ❤️
 | [Resources for proposers](proposers/README.md) | [Resources for voters](voters/README.md) | [Resources for Community Advisors](community-advisor/README.md) |
 
 </span>
+
+<NewsScroll :items="[
+  {'link':'/news/#when-will-hardware-wallet-voting-support-will-be-available',
+  'text':'When will hardware wallet voting support will be available?'},
+  {'link':'/news/#we-are-applying-for-funding',
+   'text':'We are applying for funding! Help us build this page'}
+  ]"/>

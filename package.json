@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "@js-joda/core": "^3.2.0",
-    "vue-marquee-text-component": "^1.2.0",
+    "vue-dynamic-marquee": "^0.1.7",
+    "vue-marquee-text-component": "git+https://github.com/mwojtera/vue-marquee-text-component.git",
     "vuetify": "^2.4.6"
   }
 }
