@@ -39,7 +39,7 @@ The following information is provided as is. Despite our best efforts to ensure 
                 date="2021-04-28T19:00"/>
 
 
-<div style="margin:0.5rem;">
+<!-- <div style="margin:0.5rem;">
 
 | Fund | Phase      | Stage                                                  | Duration        | Start DATE  | Start UTC | END Date    |
 | ---- | ---------- | ------------------------------------------------------ | --------------- | ----------- | --------- | ----------- |
@@ -156,4 +156,4 @@ The following information is provided as is. Despite our best efforts to ensure 
 | F11  | Execution  | Rewarding                                              | 2               | 3-Mar-22    |           | 5-Mar-2022  |
 | F11  | Execution  | Reporting                                              | Every two weeks |             |           |
 
-</div>
+</div> -->
