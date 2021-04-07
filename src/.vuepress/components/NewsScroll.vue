@@ -17,14 +17,15 @@
     data() {
       return {
       }
+    },
+    mounted:function(){
+      document.getElementsByClassName("navbar")[0].style['margin-top']="2rem"
+    },
+    destroyed:function(){
+      document.getElementsByClassName("navbar")[0].style['margin-top']="0rem"
     }
   }
 </script>
-<style>
-.navbar{
-      margin-top:2rem;
-    }
-</style>
 <style scoped>
     .marquee{
       z-index: 100;
