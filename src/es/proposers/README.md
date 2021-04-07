@@ -1,4 +1,6 @@
 
+__Estamos buscando traductores, si te interesa contribuir visita [la página de GitHub](https://github.com/Project-Catalyst/project-catalyst.github.io)__
+
 
 # Ressources du Proposant 
 

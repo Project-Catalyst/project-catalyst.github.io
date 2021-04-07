@@ -1,3 +1,5 @@
+__Estamos buscando traductores, si te interesa contribuir visita [la página de GitHub](https://github.com/Project-Catalyst/project-catalyst.github.io)__
+
 # Project Catalyst Challenge and Proposal Guide
 
 Project Catalyst is underway and we&#39;re seeing some incredible participation from a wide spectrum of individuals. This is a collaborative process to create a worldwide community innovation project. The problem statement, solution, relevant experience, and funds requested will be displayed in the voting application. This will allow everyone to learn about the initiatives before voting on them.

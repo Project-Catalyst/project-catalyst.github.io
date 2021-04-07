@@ -30,9 +30,9 @@ module.exports = {
       title: 'Cardano Catalyst Community Site',
       description: description
     },
-    '/fr/': {
-      lang: 'fr-FR',
-      title: 'Cardano Catalyst Site Communautaire',
+    '/es/': {
+      lang: 'es-es',
+      title: 'Cardano Catalyst Sitio de la Comunidad',
       description: description
     }
   },
@@ -94,42 +94,42 @@ module.exports = {
           },
         ],
       },
-      '/fr/': {
+      '/es/': {
         selectText: 'Langages',
-        label: 'Français',
-        ariaLabel: 'Langages',
-        editLinkText: 'Modifier cette page sur GitHub ',
+        label: 'Español',
+        ariaLabel: 'Lenguages',
+        editLinkText: 'Modifica esta página en GitHub ',
         serviceWorker: {
           updatePopup: {
-            message: "New content is available.",
-            buttonText: "Refresh"
+            message: "Nuevo contenido disponible.",
+            buttonText: "Refrescar"
           }
         },
         algolia: {},
         nav: [
           {
-            text: 'Proposants',
-            link: '/fr/proposers/'
+            text: 'Proponentes',
+            link: '/es/proposers/'
           },
           {
-            text: 'Les électeurs',
-            link: '/fr/voters/'
+            text: 'Electores',
+            link: '/es/voters/'
           },
           {
-            text: 'Conseillers communautaires',
-            link: '/fr/community-advisor/',
+            text: 'Asesores comunitarios',
+            link: '/es/community-advisor/',
           },
           {
-            text: 'Fonds',
-            link: '/fr/funds/'
+            text: 'Fondos',
+            link: '/es/funds/'
           },
           {
-            text: 'Ressources',
-            link: '/fr/ressources/'
+            text: 'Recursos',
+            link: '/es/resources/'
           },
           {
             text: 'FAQ',
-            link: '/fr/faq/'
+            link: '/es/faq/'
           },
         ],
       },
