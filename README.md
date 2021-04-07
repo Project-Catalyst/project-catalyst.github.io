@@ -21,9 +21,9 @@ This site is built using [Vuepress](https://vuepress.vuejs.org/)
 * Create a github account and install [GitHub Desktop](https://desktop.github.com/)
 * Download site code. Go to [repository](https://github.com/Project-Catalyst/catalyst) and *Download with GitHub Desktop*
 ![Download with GitHub Desktop](readme.assets/open-in-github.png)
-* You can start editing *docs/src* right away using your favourite Markdown editor
+* You can start editing all documents inside the *src* directory right away using your favourite Markdown editor
 * If you want to see effects of your work as you go:
-  * Go to *project folder*/docs in any terminal and run `npm install` to install all the necessary dependencies
+  * Go to the *project root directory* in any terminal and run `npm install` to install all the necessary dependencies
   * Run `npm run dev` and go to [http://localhost:8080/](http://localhost:8080/) in your favourite browser to see results of your work immediately
 
 * To build a complete static site run `npm run build`, the result is generated in *static* in the main project directory
@@ -31,3 +31,11 @@ This site is built using [Vuepress](https://vuepress.vuejs.org/)
 ### Github Actions
 
 There is a simple node.js action configured in `.github/workflows/node.js.yml` which will build the static site every time new content is pushed to the site.
+
+## Libraries used on this site:
+* Vuepress - Content and structure [page](https://vuepress.vuejs.org/)
+* Vuetify - components and layout [page](https://vuetifyjs.com/en/)
+* js-joda - time travel and other shenanigans [page](https://github.com/js-joda/js-joda)
+* vue-marquee-text-component - marquee, due to intergration problems, we are just using the actual component, not the whole the package
+<!-- * i18n - Language/localization -->
+<!-- * tailwind - CSS design (to be implemented) -->

@@ -69,6 +69,10 @@ module.exports = {
         algolia: {},
         nav: [
           {
+            text: 'News',
+            link: '/news/'
+          },
+          {
             text: 'Proposers',
             link: '/proposers/'
           },
@@ -107,6 +111,10 @@ module.exports = {
         },
         algolia: {},
         nav: [
+          {
+            text: 'Noticias',
+            link: '/es/news/'
+          },
           {
             text: 'Proponentes',
             link: '/es/proposers/'
