@@ -5,41 +5,38 @@ The following information is provided as is. Despite our best efforts to ensure 
 
 # FUND 4
 
-<CountdownTimer title="Fund 4 - INNOVATION"
-                subtitle=" Assess QA - END"
-                date="2021-03-31T22:00"/>
-
 <CountdownTimer title="Fund 4 - GOVERNANCE"
                 subtitle="Voter Registration - START"
-                date="2021-04-06T19:00"/>
-
-<CountdownTimer title="Fund 4 - GOVERNANCE"
-                subtitle="Voter Registration - END"
                 date="2021-04-13T19:00"/>
 
 <CountdownTimer title="Fund 4 - GOVERNANCE"
+                subtitle="Voter Registration - END"
+                date="2021-04-20T19:00"/>
+
+<CountdownTimer title="Fund 4 - GOVERNANCE"
                 subtitle="Balance Snapshot - END"
-                date="2021-04-17T19:00"/>
+                date="2021-04-22T19:00"/>
 
 <CountdownTimer title="Fund 4 - GOVERNANCE"
                 subtitle="Voting - START"
-                date="2021-04-16T19:00"/>
+                date="2021-04-22T19:00"/>
 
 <CountdownTimer title="Fund 4 - GOVERNANCE"
                 subtitle="Voting - END"
-                date="2021-05-06T19:00"/>
+                date="2021-05-05T19:00"/>
 
 # FUND 5
 
 <CountdownTimer title="Fund 5 - INNOVATION"
                 subtitle="Proposal Submission - START"
                 date="2021-04-07T19:00"/>
+
 <CountdownTimer title="Fund 5 - INNOVATION"
                 subtitle="Finalize Proposals / CA Registration - END"
                 date="2021-04-28T19:00"/>
 
 
-<!-- <div style="margin:0.5rem;">
+<div style="margin:0.5rem;">
 
 | Fund | Phase      | Stage                                                  | Duration        | Start DATE  | Start UTC | END Date    |
 | ---- | ---------- | ------------------------------------------------------ | --------------- | ----------- | --------- | ----------- |
@@ -65,9 +62,9 @@ The following information is provided as is. Despite our best efforts to ensure 
 | F4   | Innovation | Finalize Proposals / CA Registration                   | 7               | 10-Mar-2021 | 19:00     | 17-Mar-2021 |
 | F4   | Innovation | Review Proposals / Assess                              | 7               | 17-Mar-2021 | 19:00     | 24-Mar-2021 |
 | F4   | Innovation | Assess QA                                              | 7               | 24-Mar-2021 | 19:00     | 31-Mar-2021 |
-| F4   | Governance | Register proposals + Voters                            | 7               | 6-Apr-2021  | 19:00     | 13-Apr-2021 |
-| F4   | Governance | Snapshot                                               | 2               | 15-Apr-2021 | 19:00     | 17-Apr-2021 |
-| F4   | Governance | Voting                                                 | 20              | 16-Apr-2021 | 19:00     | 6-May-2021  |
+| F4   | Governance | Register proposals + Voters                            | 7               | 13-Apr-2021 | 19:00     | 20-Apr-2021 |
+| F4   | Governance | Snapshot                                               | 2               | 20-Apr-2021 | 19:00     | 22-Apr-2021 |
+| F4   | Governance | Voting                                                 | 20              | 22-Apr-2021 | 19:00     | 5-May-2021  |
 | F4   | Governance | Tallying                                               | 2               | 5-May-2021  | 19:00     | 7-May-2021  |
 | F4   | Execution  | Rewarding                                              | 2               | 12-May-2021 |           | 14-May-2021 |
 | F4   | Execution  | Reporting                                              | Every two weeks |             |           |
@@ -156,4 +153,4 @@ The following information is provided as is. Despite our best efforts to ensure 
 | F11  | Execution  | Rewarding                                              | 2               | 3-Mar-22    |           | 5-Mar-2022  |
 | F11  | Execution  | Reporting                                              | Every two weeks |             |           |
 
-</div> -->
+</div>
