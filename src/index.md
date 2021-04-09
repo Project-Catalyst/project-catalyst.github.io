@@ -10,10 +10,10 @@ features:
   details: Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people, ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
 
 - title: Who is a Voter?
-  details:   Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
+  details:   Voters are ada holders and they are the deciders in the governance process of Project Catalyst. They are the stewards of Cardano and by voting they bring Cardano closer to its vision.
 
 - title: Who is a Community Advisor?
-  details: Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
+  details: The Community Advisor (CA) role are community members that have self assigned themselves the task of assisting and reviewing proposals submitted to a given fund. They assume the role of stewards of Project Catalyst in any particular fund. Further, community advisors are anyone who participates in the community to develop, assist, advise, improve... project catalyst.
 
 
 footer: Made by Catalyst Community with ❤️
