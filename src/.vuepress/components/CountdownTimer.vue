@@ -118,7 +118,7 @@
         },
     };
 </script>
-<style>
+<style scoped>
 .displayPrefix::before{
     content:"0";
     color:grey
