@@ -29,5 +29,7 @@ footer: Made by Catalyst Community with ❤️
   {'link':'/news/#when-will-hardware-wallet-voting-support-will-be-available',
   'text':'When will hardware wallet voting support will be available?'},
   {'link':'/news/#we-are-applying-for-funding',
-   'text':'We are applying for funding! Help us build this page'}
+   'text':'We are applying for funding! Help us build this page'},
+  {'link':'/news/#Fund-4-FAQ',
+   'text':'IOG release Fund 4 FAQ - Voting threshold reduced to 500!'}
   ]"/>
