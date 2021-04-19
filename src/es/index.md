@@ -31,7 +31,7 @@ __
 
 <NewsScroll :items="[
   {'link':'/news/#when-will-hardware-wallet-voting-support-will-be-available',
-  'text':'When will hardware wallet voting support will be available?'},
+  'text':'¿Cuándo estará disponible el soporte para la votación de billeteras de hardware?'},
   {'link':'/news/#we-are-applying-for-funding',
-   'text':'We are applying for funding! Help us build this page'}
+   'text':'¡Estamos solicitando financiación! Ayúdenos a construir este sitio web.'}
   ]"/>
