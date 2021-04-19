@@ -24,10 +24,8 @@ footer: Creado por la Comunidad del Proyecto Catalyst con ❤️
 
 
 
-| [Resources for proposers](es/proposers/README.md) | [Resources for voters](es/voters/README.md) | [Resources for Community Advisors](es/community-advisor/README.md) |
-
-# This will no longer be necessary ;)
-# __Estamos buscando traductores, si te interesa contribuir visita [la página de GitHub](https://github.com/Project-Catalyst/project-catalyst.github.io)__
+| [Recursos para los Proponentes](es/proposers/README.md) | [Recursos para los Votantes](es/voters/README.md) | [Recursos para los Asesores Comunitarios](es/community-advisor/README.md) |
+__
 
 </span>
 
