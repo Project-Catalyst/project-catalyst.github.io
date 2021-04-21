@@ -42,8 +42,8 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="Community Advisor Guidelines - Community"
-    subtitle=""
+    title="Community Advisor Guidelines"
+    subtitle="Community"
     url="/community_advisor_guidelines/"
     target="_self"
     linkText="Go to Page"
