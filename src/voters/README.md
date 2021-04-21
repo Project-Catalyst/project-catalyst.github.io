@@ -52,19 +52,20 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title="Registration guide for Project Catalyst voting"
-    subtitle="Official"
+    title="Official Voter Registration Guide"
+    subtitle="Project Catalyst voting"
     url="https://drive.google.com/file/d/1-n1IIvGf10_46uhgwMU_sMLoJYsVK8yx/view"
     linkText="Go to Page"
     text="Project Catalyst’s voting system is a crucial component of Voltaire and on-chain governance for the Cardano ecosystem. Project Catalyst uses IdeaScale as a collaborative innovation platform, allowing ada holders to steer the development and deliver funds to emerging projects. " />
 
 <ResourceCard
     class="resourceCard"
-    headerColor="#0088CC"
-    title="Expert Ballots"
-    subtitle="Community content"
-    url="https://docs.google.com/spreadsheets/d/1f3n-3X98WYuXBdPhBW5EmOapaChfUjAWOYgqhuOGfLw/edit#gid=1511145570"
+    headerColor="#8FD14F"
+    title="Proposer Guidelines - Community"
+    subtitle=""
+    url="/expert_ballots/"
+    target="_self"
     linkText="Go to Page"
-    text="MY Fund 2 Analysis " />
+    text="Voter Advice and Expert Ballots." />
 
 </div>

@@ -58,4 +58,14 @@
     linkText="Go to Page"
     text="Explanation of Community Advisor (CA) roles and responsibilities " />
 
+<ResourceCard
+    class="resourceCard"
+    headerColor="#8FD14F"
+    title="Proposer Guidelines - Community"
+    subtitle=""
+    url="/proposer_guidelines/"
+    target="_self"
+    linkText="Go to Page"
+    text="Community made proposer guides. " />
+
 </div>
