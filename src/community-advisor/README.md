@@ -38,4 +38,14 @@
     url="https://discord.gg/uPv97TvGvC"
     linkText="Go to Page"
     text="This discord server holds the intention of providing  Virtual-Breakout-Rooms for your discussions about the Cardano Catalyst Project,  and more specifically about the Proposals. " />
+
+<ResourceCard
+    class="resourceCard"
+    headerColor="#8FD14F"
+    title="Community Advisor Guidelines"
+    subtitle="Community"
+    url="/community_advisor_guidelines/"
+    target="_self"
+    linkText="Go to Page"
+    text="Community made Community Advisor guides. " />
 </div>
