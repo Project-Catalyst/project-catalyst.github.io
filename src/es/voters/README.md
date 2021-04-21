@@ -1,5 +1,3 @@
-__Estamos buscando traductores, si te interesa contribuir visita [la página de GitHub](https://github.com/Project-Catalyst/project-catalyst.github.io)__
-
 # Voter Resources
 
 <style>
@@ -14,57 +12,57 @@ __Estamos buscando traductores, si te interesa contribuir visita [la página de 
 <ResourceCard
     class="resourceCard"
     headerColor="#001D9D"
-    title="Fund timeline"
-    subtitle=""
+    title="Cronología del Fondo"
+    subtitle="Una línea de tiempo sobre el ciclo de vida de los fondos."
     url="/funds/"
     target="_self"
-    linkText="Go to Page"
-    text="A timeline of how a funds lifecycle." />
+    linkText="Ir a la Página"
+    text="Una línea de tiempo sobre el ciclo de vida de los Fondos." />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title="Voter Guide"
-    subtitle="Official - Project Catalyst (Fund 3)"
+    title="Guía de Votación"
+    subtitle="Oficial - Proyecto Catalyst (Fondo 3)"
     url="/fund3.html"
     target="_self"
-    linkText="Go to Page"
-    text="Information for voting in Project Catalyst. " />
+    linkText="Ir a la Página"
+    text="Información para votar en el Proyecto Catalyst." />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#001D9D"
-    title="Voting result analytics"
-    subtitle="Fund 2"
+    title="Análisis de los resultados de las votaciones."
+    subtitle="Fondo 2"
     url="https://docs.google.com/spreadsheets/d/1rNRrF6jeKjKb2wTZXBZIvyi7mfCqYTNDbTlyjgbsuU0/edit#gid=449885406"
-    linkText="Go to Page"
-    text="Fund 2 - Voting Results Alternates - by Daniel Ribar." />
+    linkText="Ir a la Página"
+    text="Fondo 2 - Resultados de Votos Alternativos - por Daniel Ribar." />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#001D9D"
     title="Voter Rewards"
-    subtitle="official - Fund 3"
+    subtitle="Oficial - Proyecto Catalyst (Fondo 3)"
     url="https://docs.google.com/document/d/1Z2qLzGbLQxLgfDKqnTZFTL3IM28V8uUykptng0p5jbE/edit"
-    linkText="Go to Page"
-    text="How much voting rewards will I receive at the end of Fund3? " />
+    linkText="Ir a la Página"
+    text="¿Cuánto recibiré de recompensa en las votaciones al final del Fondo 3?" />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title="Registration guide for Project Catalyst voting"
-    subtitle="Official"
+    title="Guía de registro para votar en el Proyecto Catalyst"
+    subtitle="Oficial"
     url="https://drive.google.com/file/d/1-n1IIvGf10_46uhgwMU_sMLoJYsVK8yx/view"
-    linkText="Go to Page"
-    text="Project Catalyst’s voting system is a crucial component of Voltaire and on-chain governance for the Cardano ecosystem. Project Catalyst uses IdeaScale as a collaborative innovation platform, allowing ada holders to steer the development and deliver funds to emerging projects. " />
+    linkText="Ir a la Página"
+    text="El sistema de votación del Proyecto Catalyst es un componente vital de Voltaire y de la gobernanza en la cadena para el ecosistema de Cardano. El Proyecto Catalyst emplea IdeaScale como plataforma de innovación colaborativa, haciendo posible que los titulares de ada dirijan el desarrollo y entreguen fondos a los proyectos emergentes." />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title="Expert Ballots"
-    subtitle="Community content"
+    title="Votaciones de Expertos"
+    subtitle="Contenido comunitario"
     url="https://docs.google.com/spreadsheets/d/1f3n-3X98WYuXBdPhBW5EmOapaChfUjAWOYgqhuOGfLw/edit#gid=1511145570"
-    linkText="Go to Page"
-    text="MY Fund 2 Analysis " />
+    linkText="Ir a la Página"
+    text="Mi análisis del Fondo 2" />
 
 </div>
