@@ -26,7 +26,7 @@ __Estamos buscando traductores, si te interesa contribuir visita [la página de 
     headerColor="#0088CC"
     title="Voter Guide"
     subtitle="Official - Project Catalyst (Fund 3)"
-    url=“/voters/fund3.html”
+    url="/fund3.html"
     target="_self"
     linkText="Go to Page"
     text="Information for voting in Project Catalyst. " />
