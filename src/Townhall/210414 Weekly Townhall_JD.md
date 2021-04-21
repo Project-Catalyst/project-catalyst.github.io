@@ -1,3 +1,7 @@
+<div>
+  # Project Catalyst Fund5 weekly town hall and Q&A #3 April 2021
+  [Youtube](https://www.youtube.com/watch?v=73l912mBpmI&t=831s)
+</div>
 | Time Stamp | Content - Project Catalyst fund5 weekly town hall and Q&A #3 – 04.14.21                                                                                                                               | Tag                 | For whom relevant?       |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------ |
 | 00:00   | **Apologies for delay in funds**                                                                                                                                                                          | General Information | All                      |
@@ -35,7 +39,7 @@
 |            | Today starts fund 5 refinement stage – there are +/- 266 active proposals in fund 5                                                                                                                   |                     |                          |
 |            | Now is the time to reduce the active proposals to better address the wicked problems                                                                                                                  |                     |                          |
 |            | Use this phase for team building, use tags on the discord channel (that other people see which people you are seeking in your proposal)                                                               |                     |                          |
-|            | Use the Pich-to-Devs Channel if you need devs:[https://discord.gg/eJySdx9n6r](https://discord.gg/eJySdx9n6r)                                                                                          |                     |                          |
+|            | Use the Pich-to-Devs Channel if you need devs: [https://discord.gg/eJySdx9n6r](https://discord.gg/eJySdx9n6r)                                                                                          |                     |                          |
 |            | Merge efforts where possible, collaborations are more successful and quality increases -> just send proposers dm on ideascale                                                                         |                     |                          |
 | 26:58:  | **Upcoming: A checklist for proposal writing**                                                                                                                                                            | General Information | Proposers                |
 |            | There will be a proposer checklist soon – to streamline the process and reduce the gap between experts and novice proposal writers (Thanks to all the CAs and proposers who contributed)              |                     |                          |
@@ -49,4 +53,4 @@
 | 44:06  | **Feedback Challenge for Catalyst**                                                                                                                                                                       | General Information | CA, All                  |
 |            | Find 3 proposals with no feedback or low feedback on Ideascale                                                                                                                                        |                     |                          |
 |            | Enhance each idea with your best advice to make it the most impactful it can be                                                                                                                       |                     |                          |
-|            | Let the[Project Catalyst Telegram group](https://t.me/ProjectCatalystChat)know by tagging #feedbackchallenge along with titles of the projects you commented on                                       |                     |
+|            | Let the [Project Catalyst Telegram group](https://t.me/ProjectCatalystChat) know by tagging #feedbackchallenge along with titles of the projects you commented on                                       |                     |
