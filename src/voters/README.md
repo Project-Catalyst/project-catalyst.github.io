@@ -60,15 +60,6 @@
 
 <ResourceCard
     class="resourceCard"
-    headerColor="#0088CC"
-    title="Expert Ballots"
-    subtitle="Community content"
-    url="https://docs.google.com/spreadsheets/d/1f3n-3X98WYuXBdPhBW5EmOapaChfUjAWOYgqhuOGfLw/edit#gid=1511145570"
-    linkText="Go to Page"
-    text="Jakob's Fund 2 Analysis." />
-
-<ResourceCard
-    class="resourceCard"
     headerColor="#8FD14F"
     title="Proposer Guidelines - Community"
     subtitle=""
