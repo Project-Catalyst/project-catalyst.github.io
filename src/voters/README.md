@@ -67,4 +67,14 @@
     linkText="Go to Page"
     text="MY Fund 2 Analysis " />
 
+<ResourceCard
+    class="resourceCard"
+    headerColor="#8FD14F"
+    title="Proposer Guidelines - Community"
+    subtitle=""
+    url="/expert_ballots/"
+    target="_self"
+    linkText="Go to Page"
+    text="Voter Advice and Expert Ballots. " />
+
 </div>
