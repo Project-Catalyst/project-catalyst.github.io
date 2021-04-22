@@ -63,7 +63,7 @@
     headerColor="#8FD14F"
     title="Proposer Guidelines - Community"
     subtitle=""
-    url="/proposer_guidelines/"
+    url="/proposers/proposer_guidelines.html"
     target="_self"
     linkText="Go to Page"
     text="Community made proposer guides. " />

@@ -44,7 +44,7 @@
     headerColor="#8FD14F"
     title="Community Advisor Guidelines"
     subtitle="Community"
-    url="/community_advisor_guidelines/"
+    url="/community-advisor/community_advisor_guides.html"
     target="_self"
     linkText="Go to Page"
     text="Community made Community Advisor guides. " />

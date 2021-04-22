@@ -63,7 +63,7 @@
     headerColor="#8FD14F"
     title="Proposer Guidelines - Community"
     subtitle=""
-    url="/expert_ballots/"
+    url="/voters/expert_ballots.html"
     target="_self"
     linkText="Go to Page"
     text="Voter Advice and Expert Ballots." />
