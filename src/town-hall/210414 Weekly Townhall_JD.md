@@ -1,8 +1,7 @@
-# Project Catalyst Fund5 weekly Townhall and Q&A #3 April 2021
+# Project Catalyst Fund5 weekly Townhall and Q&A #3 - 14 April 2021
 
 [Youtube](https://www.youtube.com/watch?v=73l912mBpmI&t=831s)
 
-</div>
 | Time Stamp | Content - Project Catalyst fund5 weekly town hall and Q&A #3 – 04.14.21                                                                                                                               | Tag                 | For whom relevant?       |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------ |
 | 00:00   | **Apologies for delay in funds**                                                                                                                                                                          | General Information | All                      |
