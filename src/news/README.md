@@ -3,7 +3,7 @@
 ## Townhall recap 14 March 2021
 
 Please read community Townhall recap here by Jacob D.:
-[Project Catalyst Fund5 weekly townhall and Q&A #3 April 2021](https://cardanocataly.st/Townhall/210414%20Weekly%20Townhall_JD.html)
+[Project Catalyst Fund5 weekly townhall and Q&A #3 April 2021](/town-hall/210414%20Weekly%20Townhall_JD.html)
 
 ## Fund-4-FAQ
 
