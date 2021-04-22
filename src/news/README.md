@@ -1,5 +1,10 @@
 # News
 
+## Townhall recap 14 March 2021
+
+Please read community Townhall recap here by Jacob D.:
+[Project Catalyst Fund5 weekly townhall and Q&A #3 April 2021](https://cardanocataly.st/Townhall/210414%20Weekly%20Townhall_JD.html)
+
 ## Fund-4-FAQ
 
 IOG have released information relating to Fund 4. Major news is that teh voting threashold has been lowered from 2900 ada to 500 ada. For this and further information please read:
