@@ -5,7 +5,7 @@ These are community made voting guides with the intention of help voters organiz
 
 | User Name | Active in | Fund   | Link                                                     |
 | --------- | --------- | ------ | -------------------------------------------------------- |
-| Filip    | Discord   | Fund 4 | [Fund 4 Proposer outreach Community voting expert ballot](https://docs.google.com/document/d/1vaWuvPtCUAUiSTiLSV1tYjRc5X8LxnYNfen7jsgGJvc/edit?usp=sharing)|
+| Filip    | Discord   | Fund 4 | [Community voting expert ballot - Fund 4 Proposer outreach - By Filip](https://docs.google.com/document/d/1vaWuvPtCUAUiSTiLSV1tYjRc5X8LxnYNfen7jsgGJvc/edit?usp=sharing)|
 | unknown    | unknown   | Fund 2 | [MY Fund 2 Analysis](https://docs.google.com/spreadsheets/d/1f3n-3X98WYuXBdPhBW5EmOapaChfUjAWOYgqhuOGfLw/edit#gid=1511145570)|
 
 
