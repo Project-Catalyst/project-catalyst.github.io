@@ -6,34 +6,25 @@ The following information is provided as is. Despite our best efforts to ensure 
 # FUND 4
 
 <CountdownTimer title="Fund 4 - GOVERNANCE"
-                subtitle="Voter Registration - START"
-                date="2021-04-13T19:00"/>
-
-<CountdownTimer title="Fund 4 - GOVERNANCE"
-                subtitle="Voter Registration - END"
-                date="2021-04-20T19:00"/>
-
-<CountdownTimer title="Fund 4 - GOVERNANCE"
-                subtitle="Balance Snapshot - END"
-                date="2021-04-22T19:00"/>
-
-<CountdownTimer title="Fund 4 - GOVERNANCE"
-                subtitle="Voting - START"
-                date="2021-04-22T19:00"/>
-
-<CountdownTimer title="Fund 4 - GOVERNANCE"
                 subtitle="Voting - END"
                 date="2021-05-05T19:00"/>
-
+<CountdownTimer title="Fund 4 - GOVERNANCE"
+                subtitle="Tallying - END"
+                date="2021-05-07T19:00"/>
+<CountdownTimer title="Fund 4 - EXECUTION"
+                subtitle="Rewarding - END"
+                date="2021-05-14T19:00"/>
 # FUND 5
-
-<CountdownTimer title="Fund 5 - INNOVATION"
-                subtitle="Proposal Submission - START"
-                date="2021-04-07T19:00"/>
 
 <CountdownTimer title="Fund 5 - INNOVATION"
                 subtitle="Finalize Proposals / CA Registration - END"
                 date="2021-04-28T19:00"/>
+<CountdownTimer title="Fund 5 - INNOVATION"
+                subtitle="Review Proposals / Assess - END"
+                date="2021-05-05T19:00"/>
+<CountdownTimer title="Fund 5 - INNOVATION"
+                subtitle="Assess QA - END"
+                date="2021-05-12T19:00"/>
 
 
 <div style="margin:0.5rem;">
