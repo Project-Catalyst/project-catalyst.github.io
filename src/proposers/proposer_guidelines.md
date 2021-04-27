@@ -5,7 +5,6 @@ These are community made proposer guides with the intention of help voters organ
 
 | User Name | Active in | Fund   | Link                                                     |
 | --------- | --------- | ------ | -------------------------------------------------------- |
-| whitevo    | Discord   | Fund 4 | [Fund 4 Proposer outreach Community voting expert ballot](https://docs.google.com/document/d/1vaWuvPtCUAUiSTiLSV1tYjRc5X8LxnYNfen7jsgGJvc/edit?usp=sharing)|
-
-
+| AlekseyMytariev    | Discord   | Fund 5 | [proposer's guide](https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj_wCIx46AgTNPVX3-38o/edit?usp=drivesdk)|
+| Whitevo    | Discord   | Fund 5 | [Project Catalyst Proposal Guide](https://drive.google.com/file/d/1mNTonded0ESrzSFLGS0G17GuSs2a98kZ/view?usp=sharing)|
 </div>
