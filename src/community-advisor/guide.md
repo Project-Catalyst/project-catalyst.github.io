@@ -1,4 +1,4 @@
-Original document: [Community Advisor Assessment Guide](https://docs.google.com/document/d/17DfQ-7qx7FUGk8oKFVcwt90puAVFOl7lCJNRKE-_RMM/edit#heading=h.naxo1jdw70tp)
+Original document: [Community Advisor Assessment Guide](https://docs.google.com/document/d/1PS6WwwYb6YURCXQ2ET1YBgzTKhX6-5FmKpVTC3vRGrg/edit)
 
 ## General Guidelines
 
@@ -31,10 +31,10 @@ The following principles are designed for CAs and should be followed to help the
 
 
 
-*   **Treat proposals and proposers with respect. **Misunderstandings are more likely than malign behavior (see [Hanlon's Razor)](https://en.wikipedia.org/wiki/Hanlon%27s_razor). While it is easy to take a negative view of suggestions/messages/activities that you don't understand or disagree with, instead of wasting your energy on arguments, try to find clarity and common ground. More often than not, it is likely that you (or the proposer, or both) are simply misunderstanding something about each other/ the proposal / the challenge or the context. In the assessment phase, you can still contact the proposer. Use this opportunity before making any assumptions.
+*   **Treat proposals and proposers with respect.** Misunderstandings are more likely than malign behavior (see [Hanlon's Razor)](https://en.wikipedia.org/wiki/Hanlon%27s_razor). While it is easy to take a negative view of suggestions/messages/activities that you don't understand or disagree with, instead of wasting your energy on arguments, try to find clarity and common ground. More often than not, it is likely that you (or the proposer, or both) are simply misunderstanding something about each other/ the proposal / the challenge or the context. In the assessment phase, you can still contact the proposer. Use this opportunity before making any assumptions.
 *   **Separate the idea from the proposal**. Considering the proposal as it is written, does it express the idea appropriately and provide a clear path to success or does it need more assistance/collaboration/resources to reach its full potential? A great idea poorly communicated can come across as a poor proposal. Offer your critical analysis of the proposals in a respectful unobtrusive and non-accusative manner. Focus on what is said in the proposal and not who is saying it.
 *   **Community Advisors offer advice**.  Offer your best advice and feedback to help proposers write better documentation, explain their ideas more clearly, assess risks or build stronger teams. Be aware, that as a CA you should not take over the writing of a proposal. If you find a project that you wish to collaborate you have to change your own standing point from a CA to a proposer. The integrity of the system lies in the hands of each of us and our decisions.
-*   **Be mindful of your time and knowledge. **No one expects you to commit more time than you have available. So assess as many proposals as you can and know that is enough. Some proposals will be technical in nature, although it is encouraged that proposers prepare their proposals at a level suitable for most voters. Don't feel that you have to provide an assessment if a proposal is beyond your technical knowledge. Even if a proposal exceeds your technical knowledge, you may still have skills and knowledge appropriate to assess portions of the proposal - in which case, feel free to do so.
+*   **Be mindful of your time and knowledge.** No one expects you to commit more time than you have available. So assess as many proposals as you can and know that is enough. Some proposals will be technical in nature, although it is encouraged that proposers prepare their proposals at a level suitable for most voters. Don't feel that you have to provide an assessment if a proposal is beyond your technical knowledge. Even if a proposal exceeds your technical knowledge, you may still have skills and knowledge appropriate to assess portions of the proposal - in which case, feel free to do so.
 
 ## Scoring Criteria
 
@@ -63,7 +63,7 @@ Scoring the impact of a proposal means that you are assessing whether the propos
 *   (4) I agree
 *   (5) I strongly agree
 
-    **… **that** this proposal effectively addresses the challenge.**
+    … that **this proposal effectively addresses the challenge.**
 
 
 **Examples for a considered assessment statement:**
@@ -104,7 +104,7 @@ Scoring the feasibility of a proposal means that you are assessing whether a pro
 *   (4) I agree
 *   (5) I strongly agree
 
-    **… **that **it is highly likely that this proposal will be implemented successfully.**
+    … that **it is highly likely that this proposal will be implemented successfully.**
 
 
 **Examples for a considered assessment statement:**
