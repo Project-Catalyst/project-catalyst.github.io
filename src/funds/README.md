@@ -3,7 +3,7 @@
 The following information is provided as is. Despite our best efforts to ensure accuracy there is no guarantee that the information is current. Changes will happen from time to time and we will endeavor to update the information in as timely manner as practical. If you notice any inaccuracies please feel free to contact us.
 </div>
 
-# FUND 4
+<!-- # FUND 4
 
 <CountdownTimer title="Fund 4 - GOVERNANCE"
                 subtitle="Voting - END"
@@ -13,7 +13,7 @@ The following information is provided as is. Despite our best efforts to ensure 
                 date="2021-05-07T19:00"/>
 <CountdownTimer title="Fund 4 - EXECUTION"
                 subtitle="Rewarding - END"
-                date="2021-05-14T19:00"/>
+                date="2021-05-14T19:00"/> -->
 # FUND 5
 
 <CountdownTimer title="Fund 5 - INNOVATION"
