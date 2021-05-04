@@ -31,5 +31,7 @@ footer: Made by Catalyst Community with ❤️
   {'link':'/news/#Fund-4-FAQ',
    'text':'IOG release Fund 4 FAQ - Voting threshold reduced to 500!'},
   {'link':'/town-hall/210414%20Weekly%20Townhall_JD.html',
-   'text':'Townhall recap 14 March 2021'}
+   'text':'Townhall recap 14 March 2021'},
+  {'link':'/news/#cardano-stack-exchange-launched',
+   'text':'Cardano Stack Exchange Launched'} 
   ]"/>
