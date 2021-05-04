@@ -1,5 +1,9 @@
 # News
 
+## Cardano Stack Exchange Launched
+
+Cardano is now on Stack Exchange https://cardano.stackexchange.com/ If you have trouble finding answers here, you can just ask a question!
+
 ## Townhall recap 14 March 2021
 
 Please read community Townhall recap here by Jacob D.:
