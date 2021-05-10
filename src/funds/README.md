@@ -1,6 +1,7 @@
 # Funds
 <div>
 The following information is provided as is. Despite our best efforts to ensure accuracy there is no guarantee that the information is current. Changes will happen from time to time and we will endeavor to update the information in as timely manner as practical. If you notice any inaccuracies please feel free to contact us.
+<p><em>Please note that due to unforeseen issues in development the time line from Fund 4 onwards is not accurate (as at 6th May 20121). The Time line will be updated as soon as updates are available</em> 
 </div>
 
 # FUND 4
@@ -55,9 +56,9 @@ The following information is provided as is. Despite our best efforts to ensure 
 | F4   | Innovation | Assess QA                                              | 7               | 24-Mar-2021 | 19:00     | 31-Mar-2021 |
 | F4   | Governance | Register proposals + Voters                            | 7               | 13-Apr-2021 | 19:00     | 20-Apr-2021 |
 | F4   | Governance | Snapshot                                               | 2               | 20-Apr-2021 | 19:00     | 22-Apr-2021 |
-| F4   | Governance | Voting                                                 | 20              | 22-Apr-2021 | 19:00     | 5-May-2021  |
-| F4   | Governance | Tallying                                               | 2               | 5-May-2021  | 19:00     | 7-May-2021  |
-| F4   | Execution  | Rewarding                                              | 2               | 12-May-2021 |           | 14-May-2021 |
+| F4   | Governance | Voting                                                 | 20              | TBA | TBA    | TBA  |
+| F4   | Governance | Tallying                                               | 2               | TBA  | TBA     | TBA  |
+| F4   | Execution  | Rewarding                                              | 2               | TBA |           | TBA |
 | F4   | Execution  | Reporting                                              | Every two weeks |             |           |
 | F5   | Innovation | Insight sharing                                        | 7               | 31-Mar-2021 | 19:00     | 7-Apr-2021  |
 | F5   | Innovation | Proposal Submission                                    | 7               | 7-Apr-2021  | 19:00     | 14-Apr-2021 |
