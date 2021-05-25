@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@js-joda/core": "^3.2.0",
+    "mixpanel-browser": "^2.41.0",
     "vuetify": "^2.4.6"
   }
 }

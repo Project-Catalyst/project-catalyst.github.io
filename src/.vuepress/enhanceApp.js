@@ -1,6 +1,8 @@
 import Vuetify from "vuetify"
 import "vuetify/dist/vuetify.min.css"
+import mixpanel from "mixpanel-browser"
 
+mixpanel.init("38a8539417c8b5e39e84947167157de6", { "api_host": "https://api-eu.mixpanel.com" }, "")
 /**
  * Client app enhancement file.
  *
