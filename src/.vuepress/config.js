@@ -19,7 +19,6 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#001D9D' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    // ['meta', { 'http-equiv':'Content-Security-Policy', content:"default-src 'self'; media-src *; script-src 'self' https://cdn.heapanalytics.com https://heapanalytics.com 'unsafe-inline' 'unsafe-eval'; img-src 'self' https://heapanalytics.com; style-src 'self' https://heapanalytics.com; connect-src 'self' https://heapanalytics.com; font-src 'self' https://heapanalytics.com;"}]
   ],
   dest: 'html',
 
