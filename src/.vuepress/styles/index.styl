@@ -4,5 +4,21 @@
  * ref：https://v1.vuepress.vuejs.org/config/#index-styl
  */
 
+html
+  position: relative
+body
+  margin: 0 0 100px
+
+html, body, #app, main, div.theme-container, div.theme-default-content
+  min-height:100%
+  height:100%
+
 .home .hero img
   max-width 450px!important
+
+div.theme-default-content
+  box-sizing: border-box
+footer
+  position: absolute
+  left: 50%
+  bottom: 50px
