@@ -19,12 +19,7 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#001D9D' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['script', { 'type':'text/javascript',content:'window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};'+
-        'var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.heapanalytics.com/js/heap-"+e+".js";'+
-        'var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a);,'+
-        'for(var n=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},'+
-        'p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],'+
-        'o=0;o<p.length;o++)heap[p[o]]=n(p[o])}; heap.load("4064924217");'}]
+    ['meta', { 'http-equiv':'Content-Security-Policy', content:"script-src https://cdn.heapanalytics.com https://heapanalytics.com 'unsafe-inline' 'unsafe-eval'; img-src https://heapanalytics.com; style-src https://heapanalytics.com; connect-src https://heapanalytics.com; font-src https://heapanalytics.com;"}]
   ],
   dest: 'html',
 
