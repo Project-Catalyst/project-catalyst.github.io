@@ -74,3 +74,12 @@
     linkText="Go to Page"
     text="Note: Always do your own research. This is not an official information portal for Project Catalyst. It is a volunteer initiative of Daniel Ribar - Project Catalyst Community Advisor. This should not be an end in itself but a starting point for you to explore further. Some information can become obsolete or inaccurate fast. Double check entries everytime. Wish to get in touch or chat? Check 'Chat With Danny' tab for contacts. Images are from Project Catalyst depository. " />
 </div>
+<ResourceCard
+    class="resourceCard"
+    headerColor="#0088CC"
+    title="adagov.org Library"
+    subtitle="A comprehensive list of resources - by adagov"
+    url="https://www.adagov.org/en/library"
+    linkText="Go to Page"
+    text="Note: Always do your own research. This is not an official information portal for Project Catalyst. It is a volunteer initiative." />
+</div>
