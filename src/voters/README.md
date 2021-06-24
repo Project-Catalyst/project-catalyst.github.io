@@ -73,9 +73,9 @@
     headerColor="#8FD14F"
     title="Voter Tool"
     subtitle=""
-    url="https://github.com/Project-Catalyst/voter-tool"
+    url="https://cardanocataly.st/voter-tool/#/"
     target="_blank"
-    linkText="Go to GitHub"
+    linkText="Go to Page"
     text="A community built and maintained tool to make voting decisions less time consuming (work in progress)" />    
 
 </div>

@@ -54,9 +54,9 @@
     headerColor="#8FD14F"
     title="Community Advisor Tool"
     subtitle=""
-    url="https://github.com/Project-Catalyst/ca-tool"
+    url="https://cardanocataly.st/ca-tool/#/"
     target="_blank"
-    linkText="Go to GitHub"
+    linkText="Go to Page"
     text="A community built and maintained tool to make Community Advisor work less time consuming (work in progress)" />
 
 <ResourceCard
@@ -64,9 +64,9 @@
     headerColor="#8FD14F"
     title="Veteran Community Advisor Tool"
     subtitle=""
-    url="https://github.com/Project-Catalyst/vca-tool"
+    url="https://cardanocataly.st/vca-tool/#/"
     target="_blank"
-    linkText="Go to GitHub"
+    linkText="Go to Page"
     text="A community built and maintained tool to make Veteran Community Advisor work less time consuming (work in progress)" />
 
 </div>
