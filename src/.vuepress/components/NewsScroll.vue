@@ -26,14 +26,15 @@
     }
   }
 </script>
-<style scoped>
+<style scoped lang="stylus">
     .marquee{
       z-index: 100;
       position: absolute;
       top:0;
       left:0;
+      right: 0;
       margin-bottom:-1rem;
-      background-color: #001D9D;
+      background-color: $accentColor;
       padding: 0.5rem;
     }
     .marquee span{
