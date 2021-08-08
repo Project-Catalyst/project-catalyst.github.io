@@ -21,11 +21,8 @@
           {{ data.heroText || $title || "Hello" }}
         </h1>
 
-        <div v-if="data.callToAction !== null" class="call-to-action">
-          <p>{{ data.callToAction[0].title }}</p>
-          <a target="_blank" :href="data.callToAction[0].url">{{
-            data.callToAction[0].description
-          }}</a>
+        <div v-if="data.heroSubTitle !== null" class="call-to-action">
+          <p>{{ data.heroSubTitle }}</p>
         </div>
 
         <div v-if="data.features && data.features.length" class="features">
@@ -34,11 +31,24 @@
             :key="index"
             class="feature"
           >
-            <a v-if="feature.url" :href="feature.url">
-              <h2>{{ feature.title }}</h2>
-            </a>
+            <h2 class="title">
+              <NavLink :item="{ link: feature.url, text: feature.title }" />
+            </h2>
+
             <p>{{ feature.details }}</p>
+
+            <div v-if="feature.link" class="bottom">
+              <NavLink
+                :item="{ link: feature.link.url, text: feature.link.title }"
+              />
+            </div>
           </div>
+        </div>
+
+        <div v-if="data.callToAction !== null" class="call-to-action">
+          <a target="_blank" :href="data.callToAction[0].url">{{
+            data.callToAction[0].title
+          }}</a>
         </div>
 
         <p v-if="data.tagline !== null" class="description">
@@ -138,6 +148,7 @@ export default {
         font-size: 1.6rem;
         line-height: 1.3;
         color: lighten($textColor, 40%);
+        text-align: left;
       }
 
       .call-to-action {
@@ -176,20 +187,38 @@ export default {
       margin-top: 2.5rem;
       display: flex;
       flex-wrap: wrap;
-      align-items: flex-start;
+      align-items: stretch;
       align-content: stretch;
       justify-content: space-between;
+      text-align: left;
     }
 
     .feature {
       flex-grow: 1;
+      padding: 1.25rem;
+      border: 1px solid transparent;
+
+      .title {
+        margin-bottom: 1rem;
+        a {
+          color: $textColor;
+        }
+      }
+
+      &:hover {
+        border: 1px solid $accentColor;
+      }
 
       &:not(:last-of-type) {
         margin-bottom: 2rem;
       }
 
+      .bottom {
+        margin-top: 1rem;
+      }
+
       @media (min-width: $MQNarrow) {
-        flex-basis: 30%;
+        flex-grow: 1;
         max-width: 30%;
 
         &:not(:last-of-type) {
