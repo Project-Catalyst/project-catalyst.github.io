@@ -10,11 +10,9 @@ https://cardanocataly.st/
 
 A central location for managing and improving Project Catalyst.
 
-## How to start contributing
-
+## Our Bounty System
 
 For more detail see our Contributions policy.
-
 
 ## Technical Set-Up
 
