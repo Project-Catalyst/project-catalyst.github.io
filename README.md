@@ -13,6 +13,10 @@ A central location for managing and improving Project Catalyst.
 ## How to start contributing
 
 
+For more detail see our Contributions policy.
+
+
+## Technical Set-Up
 
 ## vuepress
 
