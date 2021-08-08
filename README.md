@@ -10,9 +10,13 @@ https://cardanocataly.st/
 
 A central location for managing and improving Project Catalyst.
 
-This site is built using [Vuepress](https://vuepress.vuejs.org/)
-
 ## How to start contributing
+
+
+
+## vuepress
+
+This site is built using [Vuepress](https://vuepress.vuejs.org/)
 
 ### You will need:
 
