@@ -12,7 +12,7 @@ A central location for managing and improving Project Catalyst.
 
 ## Our Bounty System
 
-For more detail see our [Contributions policy](./Contribution.md).
+For more detail see our [Contributions policy](./Contribute.md).
 
 ## Technical Set-Up
 
