@@ -14,17 +14,17 @@ callToAction:
   url: https://www.cardanocatalyst.io
 
 features:
-- title: Who is a Proposer?
+- title: Proposers
   url: /proposers/
-  details: Proposers are a vital aspect of Project Catalyst. They are the fuel to the fire. Proposers are the ideas people, ones that see the bigger picture, identify needs, plug gaps. A proposal made by a proposer is the way to communicate that idea to the community.
+  details: A proposer is someone who submits a proposal to Cardano Project Catalyst to be funded by the treasury. They are the fuel to the fire. Proposers are the ideas people, ones that see the bigger picture,  identify needs, plug gaps. A proposal made by a proposer is the way to  communicate that idea to the community.
 
-- title: Who is a Voter?
+- title: Voters
   url: /voters/
-  details:   Voters are ada holders and they are the deciders in the governance process of Project Catalyst. They are the stewards of Cardano and by voting they bring Cardano closer to its vision.
+  details: A voter is a holder of ada and who actively participates in the governance of Cardano Project Catalyst. They are the ultimate deciders of the direction of the project. The review proposers proposals and vote up or vote down the proposals they would like or dislike to see implemented. They are the stewards of Cardano and by voting they bring Cardano closer to its vision.
 
-- title: Who is a Community Advisor?
+- title: Community Advisor?
   url: /community-advisor/
-  details: The Community Advisor (CA) role are community members that have self assigned themselves the task of assisting and reviewing proposals submitted to a given fund. They assume the role of stewards of Project Catalyst in any particular fund. Further, community advisors are anyone who participates in the community to develop, assist, advise, improve... project catalyst.
+  details: A Community Advisor (CA) is a member of the community who has chosen to participate in the quality assurance of proposals. They have the task of reviewing proposals submitted to a given fund and supplying quality information to voters and proposers.  Further, a community advisors is anyone  who participates in the community to develop, assist, advise, improve... project catalyst.
 
 
 footer: Made by Catalyst Community with ❤️
