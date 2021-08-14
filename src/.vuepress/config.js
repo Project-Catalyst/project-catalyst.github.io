@@ -70,33 +70,33 @@ module.exports = {
         nav: [
           {
             text: 'News',
-            link: '/news/'
+            link: '/en/news/'
           },
           {
             text: 'Proposers',
-            link: '/proposers/'
+            link: '/en/proposers/'
           },
           {
             text: 'Voters',
-            link: '/voters/'
+            link: '/en/voters/'
           },
           {
             text: 'Community Advisors',
-            link: '/community-advisor/',
+            link: '/en/community-advisor/',
           },
           {
             text: 'Funds',
-            link: '/funds/'
+            link: '/en/funds/'
           },
           {
             text: 'Resources',
-            link: '/resources/'
+            link: '/en/resources/'
           },
           {
             text: 'FAQ',
-            link: '/faq/'
+            link: '/en/faq/'
           },
-        ],
+       ],
       },
       '/es/': {
         selectText: 'Langages',
