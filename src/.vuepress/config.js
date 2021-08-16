@@ -101,8 +101,8 @@ module.exports = {
             link: '/en/statistics/'
           },
           {
-            text: 'About',
-            link: '/en/about/'
+            text: 'Bounties',
+            link: '/en/bounties/'
           },
           {
             text: 'FAQ',
@@ -148,6 +148,7 @@ module.exports = {
             link: '/es/resources/'
           },
           {
+
             text: 'Instrumentos',
             link: '/es/tools/',
           },
@@ -156,8 +157,8 @@ module.exports = {
             link: '/es/statistics/'
           },
           {
-            text: 'Sobre',
-            link: '/es/about/'
+            text: 'Generosidades',
+            link: '/es/bounties/'
           },
           {
             text: 'FAQ',
