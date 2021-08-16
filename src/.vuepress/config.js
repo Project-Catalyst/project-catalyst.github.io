@@ -101,6 +101,10 @@ module.exports = {
             link: '/en/statistics/'
           },
           {
+            text: 'About',
+            link: '/en/about/'
+          },
+          {
             text: 'FAQ',
             link: '/en/faq/'
           },
@@ -145,11 +149,15 @@ module.exports = {
           },
           {
             text: 'Instrumentos',
-            link: '/en/tools/'
+            link: '/es/tools/',
           },
           {
             text: 'Estadísticas',
             link: '/es/statistics/'
+          },
+          {
+            text: 'Sobre',
+            link: '/es/about/'
           },
           {
             text: 'FAQ',
