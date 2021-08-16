@@ -10,16 +10,21 @@
   "repository": "https://github.com/Project-Catalyst/catalyst.git",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "sandbox": "nodemon --require esm test/sandbox.js"
   },
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
+    "esm": "^3.2.25",
+    "nodemon": "^2.0.12",
     "vuepress": "^1.5.3"
   },
   "dependencies": {
     "@js-joda/core": "^3.2.0",
     "mixpanel-browser": "^2.41.0",
+    "octokit": "^1.3.0",
+    "vue-resource": "^1.5.3",
     "vuetify": "^2.4.6"
   }
 }

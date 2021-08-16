@@ -1,5 +1,8 @@
 import Vuetify from "vuetify"
 import "vuetify/dist/vuetify.min.css"
+import VueResource from "vue-resource"
+
+
 
 /**
  * Client app enhancement file.
@@ -7,13 +10,13 @@ import "vuetify/dist/vuetify.min.css"
  * https://v1.vuepress.vuejs.org/guide/basic-config.html#app-level-enhancements
  */
 
- var mixpanel = require('mixpanel-browser');
+var mixpanel = require('mixpanel-browser');
 
- mixpanel.init("38a8539417c8b5e39e84947167157de6", { "api_host": "https://api-eu.mixpanel.com" }, "");
+mixpanel.init("38a8539417c8b5e39e84947167157de6", { "api_host": "https://api-eu.mixpanel.com" }, "");
 
- mixpanel.track("Mixpanel initialized");
+mixpanel.track("Mixpanel initialized");
 
- 
+
 export default ({
   Vue, // the version of Vue being used in the VuePress app
   options, // the options for the root Vue instance
@@ -22,5 +25,6 @@ export default ({
 }) => {
   // ...apply enhancements for the site.
   Vue.use(Vuetify)
+  Vue.use(VueResource)
   options.vuetify = new Vuetify({})
 }
