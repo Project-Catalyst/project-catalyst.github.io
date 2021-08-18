@@ -155,7 +155,7 @@ Roadmap and milestones (incl. time horizon) are weakly described. It is only men
 
 Rationales similar to these given below are not in accordance with the standard of the guideline as they do not offer guidance to voters and to proposers. To have your assessment counted towards the overall rating, inadequate assessment statements should be avoided.
 
-For information about the reviewing-the-assessments process, please follow the guidelines for vCA (Veteran Community Advisors) who use a Red and Yellow flagging system to review CA assessments [[Link](https://cardanocataly.st/community-advisor/read_and_yellow_thing.html)].
+For information about the reviewing-the-assessments process, please follow the guidelines for vCA (Veteran Community Advisors) who use a Red and Yellow flagging system to review CA assessments [[Link](https://cardanocataly.st/en/community-advisor/read_and_yellow_thing.html)].
 
 
 #### No rationale given:
