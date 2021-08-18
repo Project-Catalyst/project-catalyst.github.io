@@ -71,7 +71,7 @@ The program consists of five key phases; innovation, governance and execution
 **Voter discussion** — View proposals in the voting app. Discussion is now about which proposals should be funded, and Q&amp;A with proposers, rather than how to improve them further.
 
 #### Funding phase timeline
-https://project-catalyst.github.io/funds/
+https://project-catalyst.github.io/en/funds/
 
 
 #### Governance phase
