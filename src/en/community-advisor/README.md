@@ -25,7 +25,7 @@
     headerColor="#0088CC"
     title="CA Guide"
     subtitle="Official - Project Catalyst"
-    url="/community-advisor/guide.html"
+    url="/en/community-advisor/guide.html"
     target="_self"
     linkText="Go to Page"
     text="Information for Community Advisors (CA). " />
@@ -44,7 +44,7 @@
     headerColor="#8FD14F"
     title="Community Advisor Guidelines"
     subtitle="Community"
-    url="/community-advisor/community_advisor_guides.html"
+    url="/en/community-advisor/community_advisor_guides.html"
     target="_self"
     linkText="Go to Page"
     text="Community made Community Advisor guides. " />

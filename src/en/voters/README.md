@@ -16,7 +16,7 @@
     headerColor="#001D9D"
     title="Fund timeline"
     subtitle=""
-    url="/funds/"
+    url="/en/funds/"
     target="_self"
     linkText="Go to Page"
     text="A timeline of how a funds lifecycle." />
@@ -26,7 +26,7 @@
     headerColor="#0088CC"
     title="Voter Guide"
     subtitle="Official - Project Catalyst (Fund 3)"
-    url=“/voters/fund3.html”
+    url=“/en/voters/fund3.html”
     target="_self"
     linkText="Go to Page"
     text="Information for voting in Project Catalyst. " />
@@ -63,7 +63,7 @@
     headerColor="#8FD14F"
     title="Proposer Guidelines - Community"
     subtitle=""
-    url="/voters/expert_ballots.html"
+    url="/en/voters/expert_ballots.html"
     target="_self"
     linkText="Go to Page"
     text="Voter Advice and Expert Ballots." />
