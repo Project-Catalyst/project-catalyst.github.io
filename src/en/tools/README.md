@@ -41,7 +41,7 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="Feedback-challenge-tool/#/"
+    title="Feedback Challenge Tool"
     subtitle="https://cardanocataly.st/feedback-challenge-tool"
     url="https://cardanocataly.st/feedback-challenge-tool/#/"
     linkText="Go to Page"
