@@ -18,7 +18,7 @@
     subtitle="https://cardanocataly.st/voter-tool"
     url="https://cardanocataly.st/voter-tool/#/"
     linkText="Go to Page"
-    text="This is a technical update tracker for the Cardano (ADA) project. It aggregates commits within the last 7 days from all branches  of Cardano development-related repos using local git mirrors. The same content can also be acquired from GitHub's web interface." />
+    text="Voter-tool is a part of the AIM Community Tool series developed by the community for the community. It is designed to assist you in your analysis of Cardano Project Catalyst proposals and create a voting guide." />
     
 <ResourceCard
     class="resourceCard"
@@ -27,7 +27,7 @@
     subtitle="https://cardanocataly.st/ca-tool"
     url="https://cardanocataly.st/ca-tool/#/"
     linkText="Go to Page"
-    text="This is a technical update tracker for the Cardano (ADA) project. It aggregates commits within the last 7 days from all branches  of Cardano development-related repos using local git mirrors. The same content can also be acquired from GitHub's web interface." />
+    text="The CA (Community Advisor) tool was created from need. It was created to offer a way for CAs to choose proposals to assess and to keep track of theses assessments. " />
     
 <ResourceCard
     class="resourceCard"
@@ -36,7 +36,7 @@
     subtitle="https://cardanocataly.st/vca-tool/#/"
     url="https://cardanocataly.st/vca-tool/#/"
     linkText="Go to Page"
-    text="This is a technical update tracker for the Cardano (ADA) project. It aggregates commits within the last 7 days from all branches  of Cardano development-related repos using local git mirrors. The same content can also be acquired from GitHub's web interface." />
+    text="The vCA-tool was designed allow vCAs (veteren Community advisors to provide a better user experience and a better way tocoordinate the vCA work." />
     
 <ResourceCard
     class="resourceCard"
@@ -45,7 +45,7 @@
     subtitle="https://cardanocataly.st/feedback-challenge-tool"
     url="https://cardanocataly.st/feedback-challenge-tool/#/"
     linkText="Go to Page"
-    text="This is a technical update tracker for the Cardano (ADA) project. It aggregates commits within the last 7 days from all branches  of Cardano development-related repos using local git mirrors. The same content can also be acquired from GitHub's web interface." />
+    text="The #FeedbackChallengeTool is a tool desinged to help Cardano Catalyst community members to better distribuite the feedback among all the proposals submitted in a given Fund. " />
 
 </div>
 
