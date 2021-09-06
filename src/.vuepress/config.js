@@ -93,6 +93,10 @@ module.exports = {
             link: '/en/resources/'
           },
           {
+            text: 'Tools',
+            link: '/en/tools/'
+          },
+          {
             text: 'Statistics',
             link: '/en/statistics/'
           },
@@ -138,6 +142,10 @@ module.exports = {
           {
             text: 'Recursos',
             link: '/es/resources/'
+          },
+          {
+            text: 'Instrumentos',
+            link: '/en/tools/'
           },
           {
             text: 'Estadísticas',
