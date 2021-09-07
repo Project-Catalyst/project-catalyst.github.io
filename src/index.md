@@ -40,10 +40,10 @@ footer: Made by Catalyst Community with ❤️
 ---
 
 <NewsScroll :items="[
-  {'link':'/en/news/#we-are-applying-for-funding',
+  {'link':'/en/news/#fund-6-Cardano-Catlyst-Proposal',
    'text':'We are applying for funding! Help us build this page'},
-  {'link':'/en/news/#Fund-4-FAQ',
-   'text':'IOG release Fund 4 FAQ - Voting threshold reduced to 500!'},
+  {'link':'/en/news/#Fund-6',
+   'text':'Fund 6 is upon us'},
   {'link':'/en/news/#cardano-stack-exchange-launched',
    'text':'Cardano Stack Exchange Launched'}
   ]"/>
