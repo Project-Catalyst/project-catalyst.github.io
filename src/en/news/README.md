@@ -1,12 +1,12 @@
 # News
 
-##Fund 6 Cardano Catlyst Proposal
+## Fund 6 Cardano Catlyst Proposal
 
-We have a proposal to continue development on this site. Please check it out here: https://cardano.ideascale.com/a/dtd/Community-Site-Development-AIM/369160-48088
+We have a proposal to continue development on this site. Please check it out here: [Community-Site-Development-AIM](https://cardano.ideascale.com/a/dtd/Community-Site-Development-AIM/369160-48088)
 
-##Fund 6 is Upon us
+## Fund 6 is Upon us
 
-Sign up as a Commuhnty Advisor by visiting https://cardano.ideascale.com/.
+Sign up as a Commuhnty Advisor by visiting and signing up at [Ideascale](https://cardano.ideascale.com/).
 
 ## Cardano Stack Exchange Launched
 
