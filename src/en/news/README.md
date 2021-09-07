@@ -1,5 +1,13 @@
 # News
 
+##Fund 6 Cardano Catlyst Proposal
+
+We have a proposal to continue development on this site. Please check it out here: https://cardano.ideascale.com/a/dtd/Community-Site-Development-AIM/369160-48088
+
+##Fund 6 is Upon us
+
+Sign up as a Commuhnty Advisor by visiting https://cardano.ideascale.com/.
+
 ## Cardano Stack Exchange Launched
 
 Cardano is now on Stack Exchange https://cardano.stackexchange.com/ If you have trouble finding answers here, you can just ask a question!
