@@ -1,12 +1,24 @@
-# Project Catalyst
+# Project Catalyst ** Under Construction **
+[![GitHub open issues](https://img.shields.io/github/issues/Project-Catalyst/project-catalyst.github.io?style=flat-square)](https://github.com/Project-Catalyst/project-catalyst.github.io/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Project-Catalyst/project-catalyst.github.io?style=flat-square)](https://github.com/Project-Catalyst/project-catalyst.github.io/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Project-Catalyst/project-catalyst.github.io)](https://github.com/Project-Catalyst/project-catalyst.github.io/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Project-Catalyst/project-catalyst.github.io)](https://github.com/Project-Catalyst/project-catalyst.github.io/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub milestones](https://img.shields.io/github/milestones/open/Project-Catalyst/project-catalyst.github.io?style=flat-square)](https://github.com/Project-Catalyst/project-catalyst.github.io)
 
-** Under Construction **
+## Cardano Catalyst Community Site 
+https://cardanocataly.st/
 
 A central location for managing and improving Project Catalyst.
 
-This site is built using [Vuepress](https://vuepress.vuejs.org/)
+## Our Bounty System
 
-## How to start contributing
+For more detail see our [Contributions policy](./Contribute.md).
+
+## Technical Set-Up
+
+## vuepress
+
+This site is built using [Vuepress](https://vuepress.vuejs.org/)
 
 ### You will need:
 
