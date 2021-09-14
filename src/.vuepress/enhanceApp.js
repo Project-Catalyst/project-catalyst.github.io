@@ -1,8 +1,14 @@
 import Vuetify from "vuetify"
-import "vuetify/dist/vuetify.min.css"
-import VueResource from "vue-resource"
+import 'vuetify/dist/vuetify.min.css'
 
+import axios from 'axios';
+import VueAxios from 'vue-axios';
+import AsyncComputed  from 'vue-async-computed'
+axios.defaults.withCredentials = true;
 
+const vuetifyOpts ={
+  
+}
 
 /**
  * Client app enhancement file.
@@ -10,11 +16,9 @@ import VueResource from "vue-resource"
  * https://v1.vuepress.vuejs.org/guide/basic-config.html#app-level-enhancements
  */
 
-var mixpanel = require('mixpanel-browser');
-
-mixpanel.init("38a8539417c8b5e39e84947167157de6", { "api_host": "https://api-eu.mixpanel.com" }, "");
-
-mixpanel.track("Mixpanel initialized");
+// var mixpanel = require('mixpanel-browser');
+// mixpanel.init("38a8539417c8b5e39e84947167157de6", { "api_host": "https://api-eu.mixpanel.com" }, "");
+// mixpanel.track("Mixpanel initialized");
 
 
 export default ({
@@ -25,6 +29,7 @@ export default ({
 }) => {
   // ...apply enhancements for the site.
   Vue.use(Vuetify)
-  Vue.use(VueResource)
-  options.vuetify = new Vuetify({})
+  Vue.use(VueAxios, axios)
+  Vue.use(AsyncComputed)
+  options.vuetify = new Vuetify(vuetifyOpts)
 }

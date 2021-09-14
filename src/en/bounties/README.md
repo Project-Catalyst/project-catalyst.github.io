@@ -4,8 +4,8 @@
 
 ## Current Available Bounties
 
-<BountyVoting labels="bounty-hunter-needed"/>
+<BountyVoting label="bounty-hunter-needed"/>
 
 ## Current Assigned Bounties
 
-<BountyVoting labels="bounty-hunter-assigned"/>
+<BountyVoting label="bounty-hunter-assigned"/>
