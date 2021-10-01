@@ -15,15 +15,18 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
     "@mdi/font": "^5.9.55",
     "@vuepress/plugin-back-to-top": "^1.8.2",
     "deepmerge": "^4.2.2",
     "esm": "^3.2.25",
     "jshint": "^2.13.1",
     "nodemon": "^2.0.12",
-    "sass": "^1.32.13",
-    "sass-loader": "^12.1.0",
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.5.3",
+    "webpack": "^4.46.0"
   },
   "dependencies": {
     "@js-joda/core": "^3.2.0",
