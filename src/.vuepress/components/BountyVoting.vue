@@ -20,7 +20,7 @@
     const API_HOST = 'bounty-api.cardanocataly.st'
     import BountyCard from './BountyCard.vue'
     export default {
-        name: 'BountVoting',
+    name: 'BountVoting',
         components:{
             BountyCard
         },
