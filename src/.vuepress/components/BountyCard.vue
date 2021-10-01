@@ -43,12 +43,13 @@
                 </v-row>
             </v-card-text>
             <v-card-actions>
-                <v-btn v-if="canVote" @click="upvote(bounty.number)"
-                    >Up Vote</v-btn
-                >
-                <v-btn v-if="canVote" @click="downvote(bounty.number)"
-                    >Down Vote</v-btn
-                >
+                <v-btn v-if="canVote" @click="upvote(bounty.number)">
+                    <font-awesome-icon icon="thumbs-up" size="lg" style="margin-right:0.5rem;"/>
+                </v-btn>
+                <v-btn v-if="canVote" @click="downvote(bounty.number)">
+                    <font-awesome-icon icon="thumbs-down" size="lg" style="margin-right:0.5rem;"/>
+                </v-btn>
+                <v-progress-circular indeterminate v-if="loading"></v-progress-circular>
             </v-card-actions>
         </v-card>
     </div>
@@ -71,7 +72,28 @@
                 default: false,
             },
         },
+        
         mounted: function () {},
+        methods: {
+            upvote: async function(bounty){
+                console.log('upvote',bounty)
+                try{
+                    const result = await this.$parent.upvote(bounty)
+                    console.log(result)
+                } catch(e){
+                    console.log(e)
+                }
+            },
+            downvote: async function(bounty){
+                console.log('downvote',bounty)
+                try{
+                    const result = await this.$parent.downvote(bounty)
+                    console.log(result)
+                } catch(e){
+                    console.log(e)
+                }
+            }
+        }
     };
 </script>
 <style>
