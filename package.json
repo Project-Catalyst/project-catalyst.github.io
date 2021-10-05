@@ -35,6 +35,7 @@
     "octokit": "^1.3.0",
     "vue-async-computed": "^3.9.0",
     "vue-axios": "^3.2.5",
+    "vuepress-plugin-redirect": "^1.2.5",
     "vuetify": "^2.4.6"
   }
 }
