@@ -69,7 +69,7 @@
                 return bounties.data;
             },
             async canVote() {
-                console.log("canVote", this.generateUniqueID());
+                // console.log("canVote", this.generateUniqueID());
                 let canVote = await this.axios.get(
                     `https://${API_HOST}/can_i_vote?state=${this.generateUniqueID()}`,
                     { withCredentials: true }
@@ -80,7 +80,14 @@
         methods: {
             generateUniqueID: function () {
                 //We need to be in the browser, otherwise localStorage is not defined https://github.com/gridsome/gridsome/issues/191
-                if(process.isClient){
+                let isLocalStorage = true
+                try {
+                    localStorage.getItem("uniqueID")
+                }catch(e){
+                    // console.log('localStorage unavailable')
+                    isLocalStorage =false
+                }
+                if(isLocalStorage){
                     let uniqueID = localStorage.getItem("uniqueID");
                     if (uniqueID === null) {
                         uniqueID = Math.random().toString(16).substring(2, 16);
