@@ -8,7 +8,6 @@ import { fab } from '@fortawesome/free-brands-svg-icons'
 import axios from 'axios';
 import VueAxios from 'vue-axios/dist/vue-axios.common.min';
 import AsyncComputed  from 'vue-async-computed'
-import VueCookies from 'vue-cookies'
 
 axios.defaults.withCredentials = true;
 
@@ -40,10 +39,5 @@ export default ({
   Vue.use(Vuetify)
   Vue.use(VueAxios, axios)
   Vue.use(AsyncComputed)
-  Vue.use(VueCookies)
-  // set secure, only https works
-  Vue.$cookies.config('7d','','',true)
-
-
   options.vuetify = new Vuetify(vuetifyOpts)
 }
