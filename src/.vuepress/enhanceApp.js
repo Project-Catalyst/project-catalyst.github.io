@@ -6,8 +6,10 @@ import { fas } from '@fortawesome/free-solid-svg-icons'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 
 import axios from 'axios';
-import VueAxios from 'vue-axios';
+import VueAxios from 'vue-axios/dist/vue-axios.common.min';
 import AsyncComputed  from 'vue-async-computed'
+import VueCookies from 'vue-cookies'
+
 axios.defaults.withCredentials = true;
 
 const vuetifyOpts ={
@@ -21,9 +23,9 @@ const vuetifyOpts ={
 
 // IMPORTANT: Uncomment before moving to production
 
-// var mixpanel = require('mixpanel-browser');
-// mixpanel.init("38a8539417c8b5e39e84947167157de6", { "api_host": "https://api-eu.mixpanel.com" }, "");
-// mixpanel.track("Mixpanel initialized");
+var mixpanel = require('mixpanel-browser');
+mixpanel.init("38a8539417c8b5e39e84947167157de6", { "api_host": "https://api-eu.mixpanel.com" }, "");
+mixpanel.track("Mixpanel initialized");
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -38,5 +40,10 @@ export default ({
   Vue.use(Vuetify)
   Vue.use(VueAxios, axios)
   Vue.use(AsyncComputed)
+  Vue.use(VueCookies)
+  // set secure, only https works
+  Vue.$cookies.config('7d','','',true)
+
+
   options.vuetify = new Vuetify(vuetifyOpts)
 }
