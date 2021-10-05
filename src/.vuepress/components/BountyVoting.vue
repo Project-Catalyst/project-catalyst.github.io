@@ -1,32 +1,33 @@
 <template>
     <div>
-        <span v-if="!canVote">
-            <v-btn
-                elevation="2"
-                block
-                :href="
-                    'https://github.com/login/oauth/authorize?client_id=Iv1.75f9d9c2e09de0f5&state=' +
-                    generateUniqueID()
-                "
-                style="margin-bottom: 1rem"
-            >
-                <font-awesome-icon
-                    :icon="['fab', 'github']"
-                    size="lg"
-                    style="margin-right: 0.5rem"
-                />
-                Sign in with Github
-            </v-btn>
-        </span>
-        <span v-if="canVote">
-            <v-btn block outlined style="margin-bottom: 1rem">
-                You are signed in to
-                <font-awesome-icon
-                    :icon="['fab', 'github']"
-                    size="lg"
-                    style="margin-left: 0.5rem"
-                />
-            </v-btn>
+        <span v-if="showSignIn">
+            <span v-if="!canVote">
+                <v-btn
+                    elevation="2"
+                    block
+                    :href="
+                        'https://github.com/login/oauth/authorize?client_id=Iv1.75f9d9c2e09de0f5&state=' +
+                        generateUniqueID()
+                    "
+                    style="margin-bottom: 1rem">
+                    <font-awesome-icon
+                        :icon="['fab', 'github']"
+                        size="lg"
+                        style="margin-right: 0.5rem"
+                    />
+                    Sign in with Github
+                </v-btn>
+            </span>
+            <span v-if="canVote">
+                <v-btn block outlined style="margin-bottom: 1rem">
+                    You are signed in to
+                    <font-awesome-icon
+                        :icon="['fab', 'github']"
+                        size="lg"
+                        style="margin-left: 0.5rem"
+                    />
+                </v-btn>
+            </span>
         </span>
         <div v-for="bounty in bounties" :key="bounty.id">
             <bounty-card
@@ -52,6 +53,11 @@
                 required: false,
                 default: "",
             },
+            showSignIn: {
+                type: Boolean,
+                required: false,
+                default: true
+            }
         },
         data: function () {
             return {

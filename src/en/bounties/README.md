@@ -8,4 +8,4 @@
 
 ## Current Assigned Bounties
 
-<BountyVoting label="bounty-hunter-assigned"/>
+<BountyVoting label="bounty-hunter-assigned" :showSignIn="false" />

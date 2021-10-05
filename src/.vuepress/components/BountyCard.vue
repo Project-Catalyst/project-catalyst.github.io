@@ -14,7 +14,7 @@
                     </div>
                 </v-row>
                 <v-row class="mx-0">
-                    <div v-html="bounty.body" style="margin:1rem 0rem;"></div>
+                    <div v-html="formatBody(bounty.body)" style="margin:1rem 0rem;"></div>
                 </v-row>
                 <v-row align="end" class="fill-height center">
                     <v-col align-self="start" class="pa-0" cols="6">
@@ -90,6 +90,39 @@
                 } catch(e){
                     console.log(e)
                 }
+            },
+            formatBody: function(body){
+                let formattedBody = ''
+                if(body !== null){
+                    let split = body.split("###")
+                    if(split.length > 0){
+                        split.forEach((el) =>{
+                            if(el.length>0){
+                                formattedBody = formattedBody.concat(`<div>${el}</div>`)
+                            }
+                        })
+                    }
+                    // console.log(split)
+                    if(formattedBody.indexOf('```text') && '```'){
+                        formattedBody = formattedBody.replace('```text','<p style="margin: 1rem 0rem; text-align:justify"><strong>')
+                        formattedBody = formattedBody.replace('```',"</strong></p>")
+                    }
+
+                    formattedBody = this.urlify(formattedBody)
+                    if(formattedBody.length > 0){
+                        return formattedBody
+                    }
+                    return this.urlify(body)
+                }
+                console.log('Body is null',body)
+                return body
+                
+            },
+            urlify: function (text) {
+                const urlRegex = /(https?:\/\/[^\s]+)/g;
+                return text.replace(urlRegex, (url) => {
+                return `<a href="${url}>${url}</a>`;
+                })
             }
         }
     };
