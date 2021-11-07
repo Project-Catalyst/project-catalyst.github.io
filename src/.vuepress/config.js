@@ -47,7 +47,7 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: true,
+    lastUpdated: false,
     locales: {
       '/': {
         // text for the language dropdown

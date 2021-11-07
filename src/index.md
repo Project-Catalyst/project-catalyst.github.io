@@ -35,15 +35,17 @@ features:
     link:
       title: Resources for Community Advisors
       url: /en/community-advisor/
-
+  
+  - title: Fund 7
+    url: /en/community-advisor/
+    details: 
+    
 footer: Made by Catalyst Community with ❤️
 ---
 
 <NewsScroll :items="[
-  {'link':'/en/news/#fund-6-Cardano-Catlyst-Proposal',
-   'text':'We are applying for funding! Help us build this page'},
-  {'link':'/en/news/#Fund-6',
-   'text':'Fund 6 is upon us'},
+  {'link':'/en/news/#Fund-7',
+   'text':'Current funding round Fund 7 is upon us - Time Lines'},
   {'link':'/en/news/#cardano-stack-exchange-launched',
    'text':'Cardano Stack Exchange Launched'}
   ]"/>
