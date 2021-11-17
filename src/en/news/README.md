@@ -1,12 +1,22 @@
-# News
+## Fund 7 - Timeline
 
-##Fund 6 Cardano Catlyst Proposal
+| Stage                     | What to Do                                   |                Starting Date      |                   Cutoff Date  |
+| ------------------------- |:--------------------------------------------:|----------------------------------:|-------------------------------:|
+| Insight sharing           |Share perspective                             | Nov 11<sup>th</sup>               | Nov 18|
+| Proposal draft submission |Submit ideas, Provide structured feedback     | Nov 18<sup>th</sup>               | Nov 25<sup>th</sup> @ 11 AM UTC|
+| Proposal Refinement       |Provide structured feedback                   | Nov 25<sup>th</sup>               | Dec 2<sup>nd</sup> @ 11 AM UTC|
+| Proposal Finalization     |Idea crystalized as proposal                  | Dec 2<sup>th</sup>                | Dec 9<sup>th</sup> @ 11 AM UTC|
+| Proposal Review           |Community advisors review proposals           | Dec 9<sup>th</sup>                | Dec 16<sup>th</sup> @ 11 AM UTC|
+| Asses QA                  |Proposers flags, vCA reviews                  | Dec 16<sup>th</sup> @ 11 AM UTC   | Jan 6th @ 11 AM UTC|
+| Governance phase          |Voting                                        |     Jan 13th                      | To be decided|
 
-We have a proposal to continue development on this site. Please check it out here: https://cardano.ideascale.com/a/dtd/Community-Site-Development-AIM/369160-48088
 
-##Fund 6 is Upon us
 
-Sign up as a Commuhnty Advisor by visiting https://cardano.ideascale.com/.
+
+## Fund 6 Cardano Catalyst Proposal
+
+We have a proposal to continue development on this site. Please check it out here:
+[Ideascale](https://cardano.ideascale.com/a/dtd/Community-Site-Development-AIM/369160-48088)
 
 ## Cardano Stack Exchange Launched
 
