@@ -13,6 +13,16 @@
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:space-evenly; align-content:space-around">
 <ResourceCard
     class="resourceCard"
+    headerColor="#0088CC"
+    title="Catalyst registration and voting guide"
+    subtitle="Official - IOHK Support"
+    url=“https://iohk.zendesk.com/hc/en-us/articles/900005679386-Catalyst-registration-and-voting-guide”
+    target="_self"
+    linkText="Go to Page"
+    text="In this article we will demonstrate the registration and voting process for Project Catalyst as it applies for every Fund. " />
+    
+<ResourceCard
+    class="resourceCard"
     headerColor="#001D9D"
     title="Fund timeline"
     subtitle=""
