@@ -13,12 +13,12 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title="Official Statistics"
-    subtitle= "Catalyst Generated Statistics" 
-    url="/en/statistics/official_statistics.html"
+    title="Community newsletter"
+    subtitle= "Offical - IOG Catalyst Community News Letter" 
+    url="https://us20.campaign-archive.com/home/?u=26d3b656ecc43aa6f3063eaed&id=2451b43b07"
     linkText="Go to Page"
     target="_self"
-    text="Officially generated statistics" />
+    text="Offical - IOHK Catalyst Community Newsletter - Past issues. [Subscribe to weekly newsletter.] (https://iohk.us20.list-manage.com/subscribe?u=26d3b656ecc43aa6f3063eaed&id=2451b43b07)" />
 
 </div>
 
