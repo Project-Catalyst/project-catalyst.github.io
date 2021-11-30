@@ -1,3 +1,27 @@
+# News
+
+<style>
+.theme-default-content:not(.custom){
+    max-width:1280px;
+}
+.resourceCard{
+    flex-basis:100%; margin-bottom:1rem
+}
+</style>
+<div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:space-evenly; align-content:space-around">
+
+<ResourceCard
+    class="resourceCard"
+    headerColor="#0088CC"
+    title="Official Statistics"
+    subtitle= "Catalyst Generated Statistics" 
+    url="/en/statistics/official_statistics.html"
+    linkText="Go to Page"
+    target="_self"
+    text="Officially generated statistics" />
+
+</div>
+
 ## Fund 7 - Timeline
 
 | Stage                     | What to Do                                   |                Starting Date      |                   Cutoff Date  |
