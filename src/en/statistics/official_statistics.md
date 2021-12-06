@@ -11,12 +11,9 @@
 | Fund2 Voting results | Breakdown of results of ADA holder votes for Fund 2 of Project Catalyst. | IO Catalyst | [Google Drive](https://drive.google.com/file/d/1ZEM12Mbc-gkdNrTg03-ORbGg3DUpug8A/view) |
 | Fund1 Voting results | Fund1 was the first time the idea was introduced to the community. This voting cicle did not offer real funding. | N/A | No data available |
 |
-
-|**Treasury**|
+|**Treasury**
+| Cardano Treasury | Details of the Cardano Catalyst Treasury, Circulation, Reserves and Rewards Allocations | Official - Data (Kevin Hammond) | [Google Drive](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0) |
 |
-| Treasury, Circulation, Reserves and Rewards Allocations | Details of the Cardano Catalyst Treasury | Official - Data (Kevin Hammond) | [Google Drive](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0) |
-
-
-|**Submitted Proposals**|
+|**Submitted Proposals**||
 |
 | Sumbitted Proposals Fund 7 | Proposals submitted to Project Catalyst Fund 7 | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1HhZyUMeZYtYlM7t119fhCpi30rKBh__HDHUa8WkoTJQ/edit#gid=420201753) |
