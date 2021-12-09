@@ -1,14 +1,14 @@
-# What is Catalyst Fund3
+# What is Catalyst Fund7
 
 [[toc]]
 
-Catalyst Fund3 is the (experimental) stage of a decentralized funding mechanism for the Cardano ecosystem which is next to the Catalyst Fund2 stage. It is a fund filled up by a portion of Cardano epoch rewards, and can be spent to implement different proposals. The decision how to distribute the fund is made by Cardano stakeholders participating in the Catalyst project through a decentralized voting procedure. There is no voting privacy in the current version of protocol yet.
+Catalyst Fund7 is the (experimental) stage of a decentralized funding mechanism for the Cardano ecosystem which is next to the Catalyst Fund6 stage. It is a fund filled up by a portion of Cardano epoch rewards, and can be spent to implement different proposals. The decision how to distribute the fund is made by Cardano stakeholders participating in the Catalyst project through a decentralized voting procedure. There is no voting privacy in the current version of protocol yet.
 
-There are several main types of participants in Fund3. _Proposers_ are those who request funding from the treasury by submitting proposals. _Voters_ are registered stakeholders who decide on proposals. _Community advisers_ are reputable community members who initially evaluate proposals before providing them to voters. _Referrers_ are those who give recommendations to proposers what kind of proposal it is better to submit.
+There are several main types of participants in Fund7. _Proposers_ are those who request funding from the treasury by submitting proposals. _Voters_ are registered stakeholders who decide on proposals. _Community advisers_ are reputable community members who initially evaluate proposals before providing them to voters. _Referrers_ are those who give recommendations to proposers what kind of proposal it is better to submit.
 
-Fund3 lasts around 1.5 month (from 2021-Feb-17 till 2021-Apr-02).
+Fund7 lasts around 1.5 month (from 2021-Nov-18 till 2022-Jan-27).
 
-The funding volume is \$500,000 worth of ADA (according to ada market value on a day funding is distributed). There are measures to prevent risks based on price fluctuation\: proposals will be paid the $ value they requested in ADA according to ADA valuation at reward distribution date (April 2th).
+Fund 6 showed us that the Developer Ecosystem Challenge with a total budget of 1 Million USD worth in ADA met a number of proposals which requested an amount of 7.277.851 USD worth in ADA. In fund 7, the Open Source Developer Ecosystem has a total budget of 200.000 USD worth in ADA. In this situation we risk losing not only needed resources to support the toolmakers of the ecosystem, but also send a dangerous message to the community. https://forum.cardano.org/t/fund-7-challenge-ranking-review/87583
 Fund intention is to engage people to submit proposals addressing the fund challenge
 **&quot;How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?&quot;**
 
