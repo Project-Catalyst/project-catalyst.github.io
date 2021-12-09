@@ -31,14 +31,14 @@ The program consists of five key phases; innovation, governance and execution
 **Assess** — Community advisors review while the community reflects on how to improve proposals and process for their next iteration.
 **Voter discussion** — View proposals in the voting app. Discussion is now about which proposals should be funded, and Q&A with proposers,  rather than how to improve them further.
 
-###Fund3 innovation phase timeline
-* Challenge refinement phase: Jan 6th -Jan 13
-* Proposal draft submission: Jan 13 - Jan 20
-* Proposal Refinement : Jan 20 - Jan 27
-* Proposal Final submission: Jan 27 - Feb 3
-* Proposal Review: Feb 3 - Feb 10
-* Reviewing the reviewers: Feb 10 - Feb 16th
-* Fund3 governance phase + Fund4 innovation phase launch: Feb 16th.
+###Fund7 innovation phase timeline
+* Insight sharing: Nov 11th - Nov 18th
+* Proposal draft submission: Nov 1th - Nov 25th 
+* Proposal Refinement : Nov 25th - Dec 2nd 
+* Proposal Final submission: Dec 2nd - Dec 9th
+* Proposal Review: Dec 9th - Dec 16th
+* Reviewing the reviewers: Dec 16th - Jan 6th
+* Fund7 governance phase: Jan 13th - Jan 27th
 
 ###Governance phase
 **Registration** - Voting committee published top proposals. Voters register by depositing ada.
