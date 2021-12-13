@@ -1,3 +1,27 @@
+# News
+
+<style>
+.theme-default-content:not(.custom){
+    max-width:1280px;
+}
+.resourceCard{
+    flex-basis:100%; margin-bottom:1rem
+}
+</style>
+<div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:space-evenly; align-content:space-around">
+
+<ResourceCard
+    class="resourceCard"
+    headerColor="#0088CC"
+    title="Community newsletter"
+    subtitle= "Offical - IOG Catalyst Community News Letter" 
+    url="https://us20.campaign-archive.com/home/?u=26d3b656ecc43aa6f3063eaed&id=2451b43b07"
+    linkText="Go to Page"
+    target="_self"
+    text="Offical - IOHK Catalyst Community Newsletter - Past issues. [Subscribe to weekly newsletter.] (https://iohk.us20.list-manage.com/subscribe?u=26d3b656ecc43aa6f3063eaed&id=2451b43b07)" />
+
+</div>
+
 ## Fund 7 - Timeline
 
 | Stage                     | What to Do                                   |                Starting Date      |                   Cutoff Date  |
