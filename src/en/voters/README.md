@@ -35,8 +35,8 @@
     class="resourceCard"
     headerColor="#0088CC"
     title="Voter Guide"
-    subtitle="Official - Project Catalyst (Fund 3)"
-    url=“/en/voters/fund3.html”
+    subtitle="Official - Voter Registation and Voting Guide"
+    url=“https://iohk.zendesk.com/hc/en-us/articles/900005679386-Catalyst-registration-and-voting-guide”
     target="_self"
     linkText="Go to Page"
     text="Information for voting in Project Catalyst. " />
