@@ -34,7 +34,7 @@
     headerColor="#8FD14F"
     title="Proposal-Review-tool"
     subtitle="https://cardanocataly.st/proposal-review-tool/"
-    url="https://cardanocataly.st/ca-tool/#/"
+    url="https://cardanocataly.st/proposal-review-tool/"
     linkText="Go to Page"
     text="The Proposal tool was created to assist proposers during the review of the CA assessments. It was created to offer a way for proposers to engage in the QA phase and provide a user friendly interface through whihch to review and flag CA assessments. " />
     
