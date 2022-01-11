@@ -13,50 +13,41 @@
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:space-evenly; align-content:space-around">
 <ResourceCard
     class="resourceCard"
-    headerColor="#001D9D"
+    headerColor="#0088CC"
+    title="Catalyst registration and voting guide"
+    subtitle="Official - IOHK Support"
+    url=“https://iohk.zendesk.com/hc/en-us/articles/900005679386-Catalyst-registration-and-voting-guide”
+    linkText="Go to Page"
+    text="In this article we will demonstrate the registration and voting process for Project Catalyst as it applies for every Fund. " />
+    
+<ResourceCard
+    class="resourceCard"
+    headerColor="#9900cc"
     title="Fund timeline"
     subtitle=""
     url="/en/funds/"
     target="_self"
     linkText="Go to Page"
-    text="A timeline of how a funds lifecycle." />
+    text="Timeline of upcoming funds." />
 
 <ResourceCard
     class="resourceCard"
-    headerColor="#0088CC"
-    title="Voter Guide"
-    subtitle="Official - Project Catalyst (Fund 3)"
-    url=“/en/voters/fund3.html”
+    headerColor="#9900cc"
+    title="Catalyst statistics and analysis"
+    subtitle="A collection of data collected by "
+    url="en/statistics/"
     target="_self"
     linkText="Go to Page"
-    text="Information for voting in Project Catalyst. " />
-
-<ResourceCard
-    class="resourceCard"
-    headerColor="#001D9D"
-    title="Voting result analytics"
-    subtitle="Fund 2"
-    url="https://docs.google.com/spreadsheets/d/1rNRrF6jeKjKb2wTZXBZIvyi7mfCqYTNDbTlyjgbsuU0/edit#gid=449885406"
-    linkText="Go to Page"
-    text="Fund 2 - Voting Results Alternates - by Daniel Ribar." />
+    text="Offical and community collected data and analysis." />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#001D9D"
     title="Voter Rewards"
-    subtitle="official - Fund 3"
+    subtitle="official"
     url="https://docs.google.com/document/d/1Z2qLzGbLQxLgfDKqnTZFTL3IM28V8uUykptng0p5jbE/edit"
     linkText="Go to Page"
-    text="How much voting rewards will I receive at the end of Fund3? " />
-
-<ResourceCard
-    class="resourceCard"
-    headerColor="#0088CC"
-    title="Official Voter Registration Guide"
-    subtitle="Project Catalyst voting"
-    url="https://drive.google.com/file/d/1-n1IIvGf10_46uhgwMU_sMLoJYsVK8yx/view"
-    linkText="Go to Page"
-    text="Project Catalyst’s voting system is a crucial component of Voltaire and on-chain governance for the Cardano ecosystem. Project Catalyst uses IdeaScale as a collaborative innovation platform, allowing ada holders to steer the development and deliver funds to emerging projects. " />
+    text="How much voting rewards will I receive at the end of the fund? (These are based on Fund 3 but the calculations remain the same) " />
 
 <ResourceCard
     class="resourceCard"
