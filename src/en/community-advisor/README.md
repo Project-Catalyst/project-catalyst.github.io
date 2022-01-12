@@ -41,6 +41,16 @@
 
 <ResourceCard
     class="resourceCard"
+    headerColor="#0088CC"
+    title="CA Telegram Channel"
+    subtitle="t.me/CatalystCommunityAdvisors"
+    url="https://t.me/CatalystCommunityAdvisors"
+    target="_self"
+    linkText="Go to Page"
+    text="Telegram channel to discuss and network with new and exisiting Community Advisors (CAs). " />
+    
+<ResourceCard
+    class="resourceCard"
     headerColor="#8FD14F"
     title="Community Advisor Guidelines"
     subtitle="Community"

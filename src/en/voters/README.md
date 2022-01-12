@@ -23,6 +23,7 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#9900cc"
+
     title="Fund timeline"
     subtitle=""
     url="/en/funds/"
@@ -36,7 +37,6 @@
     title="Catalyst statistics and analysis"
     subtitle="A collection of data collected by "
     url="en/statistics/"
-    target="_self"
     linkText="Go to Page"
     text="Offical and community collected data and analysis." />
 

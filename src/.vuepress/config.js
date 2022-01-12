@@ -43,11 +43,25 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    nextLinks: false,
+    prevLinks: false,
+    sidebar: [
+      [ '/en/news/','News'],
+      [ '/en/proposers/','Proposers'],
+      [ '/en/voters/','Voters' ],
+      [ '/en/community-advisor/','Community Advisors' ],
+      [ '/en/funds/','Funds'   ],
+      [ '/en/resources/','Resources' ],
+      [ '/en/tools/','Tools'   ],
+      [  '/en/statistics/','Statistics'   ],
+      [ '/en/bounties/','Bounties' ],
+      [ '/en/faq/','FAQ' ]
+   ],
     repo: '',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: true,
+    lastUpdated: false,
     locales: {
       '/': {
         // text for the language dropdown
@@ -67,6 +81,7 @@ module.exports = {
         },
         // algolia docsearch options for current locale
         algolia: {},
+
         nav: [
           {
             text: 'News',
@@ -99,6 +114,10 @@ module.exports = {
           {
             text: 'Statistics',
             link: '/en/statistics/'
+          },
+          {
+            text: 'Bounties',
+            link: '/en/bounties/'
           },
           {
             text: 'FAQ',
@@ -144,12 +163,17 @@ module.exports = {
             link: '/es/resources/'
           },
           {
+
             text: 'Instrumentos',
-            link: '/en/tools/'
+            link: '/es/tools/',
           },
           {
             text: 'Estadísticas',
             link: '/es/statistics/'
+          },
+          {
+            text: 'Generosidades',
+            link: '/es/bounties/'
           },
           {
             text: 'FAQ',
@@ -166,5 +190,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    ['vuepress-plugin-redirect',{'locales':true}]
   ]
 }

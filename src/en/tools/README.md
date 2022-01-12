@@ -14,11 +14,11 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="Voter-Tool"
-    subtitle="https://cardanocataly.st/voter-tool"
-    url="https://cardanocataly.st/voter-tool/#/"
+    title="Feedback Challenge Tool"
+    subtitle="https://cardanocataly.st/feedback-challenge-tool"
+    url="https://cardanocataly.st/feedback-challenge-tool/#/"
     linkText="Go to Page"
-    text="Voter-tool is a part of the AIM Community Tool series developed by the community for the community. It is designed to assist you in your analysis of Cardano Project Catalyst proposals and create a voting guide." />
+    text="The #FeedbackChallengeTool is a tool desinged to help Cardano Catalyst community members to better distribuite the feedback among all the proposals submitted in a given Fund. " />
     
 <ResourceCard
     class="resourceCard"
@@ -32,6 +32,15 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
+    title="Proposal-Review-tool"
+    subtitle="https://cardanocataly.st/proposal-review-tool/"
+    url="https://cardanocataly.st/proposal-review-tool/"
+    linkText="Go to Page"
+    text="The Proposal tool was created to assist proposers during the review of the CA assessments. It was created to offer a way for proposers to engage in the QA phase and provide a user friendly interface through whihch to review and flag CA assessments. " />
+    
+<ResourceCard
+    class="resourceCard"
+    headerColor="#8FD14F"
     title="vCA-Tool"
     subtitle="https://cardanocataly.st/vca-tool/#/"
     url="https://cardanocataly.st/vca-tool/#/"
@@ -41,11 +50,11 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="Feedback Challenge Tool"
-    subtitle="https://cardanocataly.st/feedback-challenge-tool"
-    url="https://cardanocataly.st/feedback-challenge-tool/#/"
+    title="Voter-Tool"
+    subtitle="https://cardanocataly.st/voter-tool"
+    url="https://cardanocataly.st/voter-tool/#/"
     linkText="Go to Page"
-    text="The #FeedbackChallengeTool is a tool desinged to help Cardano Catalyst community members to better distribuite the feedback among all the proposals submitted in a given Fund. " />
+    text="Voter-tool is a part of the AIM Community Tool series developed by the community for the community. It is designed to assist you in your analysis of Cardano Project Catalyst proposals and create a voting guide." />
 
 </div>
 
