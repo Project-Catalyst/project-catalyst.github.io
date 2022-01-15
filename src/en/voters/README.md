@@ -16,7 +16,7 @@
     headerColor="#0088CC"
     title="Catalyst registration and voting guide"
     subtitle="Official - IOHK Support"
-    url=“https://iohk.zendesk.com/hc/en-us/articles/900005679386-Catalyst-registration-and-voting-guide”
+    url="https://iohk.zendesk.com/hc/en-us/articles/900005679386-Catalyst-registration-and-voting-guide"
     linkText="Go to Page"
     text="In this article we will demonstrate the registration and voting process for Project Catalyst as it applies for every Fund. " />
     
