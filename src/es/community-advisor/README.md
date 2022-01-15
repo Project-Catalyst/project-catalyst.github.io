@@ -27,7 +27,7 @@ __Estamos buscando traductores, si te interesa contribuir visita [la página de 
     headerColor="#0088CC"
     title="CA Guide"
     subtitle="Official - Project Catalyst"
-    url="/community-advisor/guide.html"
+    url="/es/community-advisor/guide.html"
     target="_self"
     linkText="Go to Page"
     text="Information for Community Advisors (CA). " />

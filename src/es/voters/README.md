@@ -24,7 +24,7 @@
     headerColor="#0088CC"
     title="Guía de Votación"
     subtitle="Oficial - Proyecto Catalyst (Fondo 3)"
-    url="/es/fund3.html"
+    url="/es/voters/fund3.html"
     target="_self"
     linkText="Ir a la Página"
     text="Información para votar en el Proyecto Catalyst." />
