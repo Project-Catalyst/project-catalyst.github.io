@@ -27,7 +27,7 @@ __Estamos buscando traductores, si te interesa contribuir visita [la página de 
     headerColor="#0088CC"
     title="Proposer Guide"
     subtitle="Official - Project Catalyst"
-    url="/proposers/guide.html"
+    url="/es/proposers/guide.html"
     target="_self"
     linkText="Go to Page"
     text="Informaion about proposing in Project Catalyst. " />
@@ -55,7 +55,7 @@ __Estamos buscando traductores, si te interesa contribuir visita [la página de 
     headerColor="#0088CC"
     title="CA Roles & responsibilities"
     subtitle=""
-    url="/community-advisor/"
+    url="/es/community-advisor/"
     target="_self"
     linkText="Go to Page"
     text="Explanation of Community Advisor (CA) roles and responsibilities " />

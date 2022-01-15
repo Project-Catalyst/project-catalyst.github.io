@@ -36,7 +36,7 @@
     headerColor="#9900cc"
     title="Catalyst statistics and analysis"
     subtitle="A collection of data collected by "
-    url="en/statistics/"
+    url="/en/statistics/"
     linkText="Go to Page"
     text="Offical and community collected data and analysis." />
 

@@ -42,8 +42,8 @@ footer: Creado por la Comunidad del Proyecto Catalyst con ❤️
 ---
 
 <NewsScroll :items="[
-  {'link':'/news/#when-will-hardware-wallet-voting-support-will-be-available',
+  {'link':'news/#when-will-hardware-wallet-voting-support-will-be-available',
   'text':'¿Cuándo estará disponible el soporte para la votación de billeteras de hardware?'},
-  {'link':'/news/#we-are-applying-for-funding',
+  {'link':'news/#we-are-applying-for-funding',
    'text':'¡Estamos solicitando financiación! Ayúdenos a construir este sitio web.'}
   ]"/>

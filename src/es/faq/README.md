@@ -27,7 +27,7 @@ Anyone can participate in Project Catalyst. Ada-holders, and those new to Cardan
 The program consists of five key phases; innovation, governance and execution
 
 ### Innovation phase
-**Challenge refinement**— Share your perspective on the challenge: facts, anecdotes, examples, opinions, wild ideas. [Instructions in detail](https://docs.google.com/document/d/1bSZaeICuyVnpvbgJDB4elENUF9Pv7MGrPTdmjOMPSEo/edit])
+**Challenge refinement**— Share your perspective on the challenge: facts, anecdotes, examples, opinions, wild ideas. [Instructions in detail](https://docs.google.com/document/d/1bSZaeICuyVnpvbgJDB4elENUF9Pv7MGrPTdmjOMPSEo/edit)
 **Ideate** — Submit initial proposal ideas. Give feedback, follow promising ideas, join forces.
 **Refine** — Provide proposers feedback on how they can increase the Impact,  Auditability and Feasibility of their idea.
 **Finalize** — Turn refined ideas into proposals ready for the vote.
@@ -117,7 +117,7 @@ Yes
 Yes, while anyone can participate in
 
 #### How are rewards calculated?
-In Fund2, there will be three types of rewards: (1) [Voter rewards](https://docs.google.com/document/d/1VX69i5_H--5K5s1XifKl1-Z5ngabVccS73_2isQ6qkk/edit]) (2) Proposer rewards (3) Community advisor rewards.
+In Fund2, there will be three types of rewards: (1) [Voter rewards](https://docs.google.com/document/d/1VX69i5_H--5K5s1XifKl1-Z5ngabVccS73_2isQ6qkk/edit) (2) Proposer rewards (3) Community advisor rewards.
 
 #### What happens to proposal funding if ada price shifts?
 For Fund2, we devised a methodology for insuring price stability:
