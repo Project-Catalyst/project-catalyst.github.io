@@ -14,7 +14,7 @@
     headerColor="#001D9D"
     title="Cronología del Fondo"
     subtitle="Una línea de tiempo sobre el ciclo de vida de los fondos."
-    url="/funds/"
+    url="/es/funds/"
     target="_self"
     linkText="Ir a la Página"
     text="Una línea de tiempo sobre el ciclo de vida de los Fondos." />
@@ -24,7 +24,7 @@
     headerColor="#0088CC"
     title="Guía de Votación"
     subtitle="Oficial - Proyecto Catalyst (Fondo 3)"
-    url="/fund3.html"
+    url="/es/fund3.html"
     target="_self"
     linkText="Ir a la Página"
     text="Información para votar en el Proyecto Catalyst." />

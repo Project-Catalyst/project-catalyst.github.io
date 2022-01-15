@@ -289,7 +289,7 @@ For information about the reviewing-the-assessments process, please follow the g
 This is a self correcting process which precedes the Ballot Submission phase and provides guidance to the Voting Committee.
 
 1. CA's finish assessments.
-2. An anonymized CSV-file containing all assessments will be passed for peer review by veteran CA's who will filter out substandard assessments. (Tool such as the [vCA-tool](https://cardanocataly.st/vCA-tool/#/)  exist to assist with this).
+2. An anonymized CSV-file containing all assessments will be passed for peer review by veteran CA's who will filter out substandard assessments. (Tool such as the [vCA-tool](https://cardanocataly.st/vca-tool/#/)  exist to assist with this).
 3. Proposers will also be invited to report substandard assessments.
 4. Experienced CA's (known as vCAs - veteran Community Advisors) decide which reported assessments should be excluded.
 5. A Catalyst admin removes the results of step 4 and any blank assessments from final published assessments.
