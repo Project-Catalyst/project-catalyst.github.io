@@ -22,6 +22,16 @@
     
 <ResourceCard
     class="resourceCard"
+    headerColor="#0088CC"
+    title="Voter Tool"
+    subtitle=""
+    url="https://cardanocataly.st/voter-tool/#/"
+    target="_blank"
+    linkText="Go to Page"
+    text="Lists summaries of Project Catalyst proposals.  A community built and maintained tool to help voters create and share pick lists." />
+
+<ResourceCard
+    class="resourceCard"
     headerColor="#9900cc"
 
     title="Fund timeline"
@@ -58,15 +68,5 @@
     target="_self"
     linkText="Go to Page"
     text="Voter Advice and Expert Ballots." />
-
-<ResourceCard
-    class="resourceCard"
-    headerColor="#8FD14F"
-    title="Voter Tool"
-    subtitle=""
-    url="https://cardanocataly.st/voter-tool/#/"
-    target="_blank"
-    linkText="Go to Page"
-    text="A community built and maintained tool to make voting decisions less time consuming (work in progress)" />    
 
 </div>
