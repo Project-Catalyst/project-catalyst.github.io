@@ -28,7 +28,7 @@
     url="https://cardanocataly.st/voter-tool/#/"
     target="_blank"
     linkText="Go to Page"
-    text="Lists summaries of Project Catalyst proposals.  A community built and maintained tool to help voters (work in progress)" />
+    text="Lists summaries of Project Catalyst proposals.  A community built and maintained tool to help voters create and share pick lists." />
 
 <ResourceCard
     class="resourceCard"
