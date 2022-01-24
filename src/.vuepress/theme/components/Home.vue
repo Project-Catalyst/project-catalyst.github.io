@@ -64,8 +64,13 @@
 
       <div v-if="data.footer" class="footer">
         {{ data.footer }}
+        <p v-if="data.feedbackText && data.feedbackLink" class="feedback">
+          <NavLink class="feedback-button"
+           :item="{text: data.feedbackText , link: data.feedbackLink}" />
+        </p>
       </div>
     </div>
+
   </main>
 </template>
 
@@ -253,6 +258,26 @@ export default {
       border-top: 1px solid $borderColor;
       text-align: center;
       color: lighten($textColor, 25%);
+
+      .feedback {
+        margin: 0.5rem auto;
+      }
+
+      .feedback-button {
+        display: inline-block;
+        font-size: 0.8rem;
+        color: #fff;
+        background-color: $accentColor;
+        padding: 0.8rem 1.6rem;
+        border-radius: 4px;
+        transition: background-color 0.1s ease;
+        box-sizing: border-box;
+        border-bottom: 1px solid darken($accentColor, 10%);
+
+        &:hover {
+          background-color: lighten($accentColor, 10%);
+        }
+      }
     }
   }
 

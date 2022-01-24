@@ -10,6 +10,9 @@ tagline: Project Catalyst is a series of experiments which seeks to generate the
 actionText: Read more >
 actionLink: /en/faq/
 
+feedbackText: Submit feedback
+feedbackLink: https://github.com/Project-Catalyst/project-catalyst.github.io/issues
+
 callToAction:
   - title: Tell me more about Project Catalyst
     url: https://www.cardanocatalyst.io
