@@ -19,7 +19,7 @@ Project Catalyst FAQ [original source](https://docs.google.com/document/d/1qYtV1
 
 ## Videos
 
-[Catalyst Fund Townhall #1](https://www.crowdcast.io/e/fofg4hrz)
+[Catalyst Fund Townhall 1](https://www.crowdcast.io/e/fofg4hrz)
 [Voltaire and Catalyst - Dor Garbash presentation at Cardano summit](https://youtu.be/WcI-ZvyeRd8)
 
 ## Communication channels
@@ -88,7 +88,7 @@ https://project-catalyst.github.io/en/funds/
 
 **Reporting** - Approved proposers send progress reports
 
-##THE PHILOSOPHY OF PROJECT CATALYST
+## THE PHILOSOPHY OF PROJECT CATALYST
 
 **Why innovate collectively?**
 
@@ -119,7 +119,7 @@ In crowdsourcing projects, once ideas have been generated, they can be turned in
 
 You can track all the stats [here](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0).
 
-##THE PHASES
+## THE PHASES
 
 **Why is there an initial challenge refinement phase?**
 
@@ -137,7 +137,7 @@ The governance phase will ensure that the best mix of proposals will receive fun
 
 During the execution phase funding, will be given to teams or individuals working on the project. Implementers will go to work building the idea outlined in the proposal. Regular reports will be required to inform the community about progress and difficulties encountered during the development process. If these reports are not made then funding can be removed from projects which are not bearing fruit.
 
-##FUNDING
+## FUNDING
 
 **How do you get funded to become a professional thought leader who helps with ideation?**
 
@@ -230,7 +230,7 @@ We can keep people informed with Project Catalyst. We ask individuals to file pr
 
 Additional KPIs will be set by individuals and teams implementing the ideas.
 
-##IDEASCALE
+## IDEASCALE
 
 **What is IdeaScale?**
 
@@ -241,7 +241,7 @@ IdeaScale is the company we have commissioned to provide a collaborative workspa
 The API and feature set ws flexible enough to express all necessary ideas. We would like to eventually integrate Atala Prism as the decentralized identity standard, but for now we will work on integrating two factor authentication to ensure safety.
 
 
-##INNOVATION AND VOTING
+## INNOVATION AND VOTING
 
 **How can proposers engage IOG and EMURGO into discourse about promising ideas?**
 
@@ -263,7 +263,7 @@ Both. We need big bold development ideas and smaller business initiatives to gro
 
 Yes, we are in discussions with Emurgo to onboard a voting process in the future.
 
-##ROLES &amp; RESPONSIBILITIES
+## ROLES &amp; RESPONSIBILITIES
 
 **What is an innovator?**
 
