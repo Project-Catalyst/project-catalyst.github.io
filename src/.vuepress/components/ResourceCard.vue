@@ -3,7 +3,7 @@
     <v-card-title :style="'background-color:'+headerColor+'; color:white'" >{{title}}</v-card-title>
     <v-card-subtitle :style="'background-color:'+headerColor+'; color:white'">{{subtitle}}</v-card-subtitle>
     <v-card-text>
-      {{text}}
+      <span v-html="text"></span>
     </v-card-text>
     <v-card-actions class="bottom-cards">
       <v-btn :href="url" :target="target === undefined ? '_blank' : target">{{linkText}}</v-btn>
