@@ -72,11 +72,11 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="Create Teaming Agreement Templates"
-    subtitle="Create template(s) suitable to serve as teaming agreements tailored to Catalyst funded proposals. Porject Closing report and explainer [Video].|(https://www.youtube.com/watch?v=eAioFRb2RTA)"
+    title="Teaming Agreement Templates"
+    subtitle="Community - Funded"
     url="https://drive.google.com/drive/folders/1yuirXN2CpQIG1vw02DEgicudq_1_340h"
     target="_self"
     linkText="Go to Page"
-    text="Community made proposer guides. " />
+    text="Create template(s) suitable to serve as teaming agreements tailored to Catalyst funded proposals. Porject Closing report and explainer [Video.]|(https://www.youtube.com/watch?v=eAioFRb2RTA) "/>
 
 </div>
