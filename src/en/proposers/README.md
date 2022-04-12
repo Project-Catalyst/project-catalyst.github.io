@@ -77,6 +77,6 @@
     url="https://drive.google.com/drive/folders/1yuirXN2CpQIG1vw02DEgicudq_1_340h"
     target="_self"
     linkText="Go to Page"
-    text="Create template(s) suitable to serve as teaming agreements tailored to Catalyst funded proposals. Porject Closing report and explainer [Video.](https://www.youtube.com/watch?v=eAioFRb2RTA) "/>
+    text="Create template(s) suitable to serve as teaming agreements tailored to Catalyst funded proposals. Project Closing report and explainer <a href='https://www.youtube.com/watch?v=eAioFRb2RTA'>video.</a>"/>
 
 </div>
