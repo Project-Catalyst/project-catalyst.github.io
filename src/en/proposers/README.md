@@ -78,5 +78,14 @@
     target="_self"
     linkText="Go to Page"
     text="Create template(s) suitable to serve as teaming agreements tailored to Catalyst funded proposals. Project Closing report and explainer <a href='https://www.youtube.com/watch?v=eAioFRb2RTA'>video.</a>"/>
-
+    
+<ResourceCard
+    class="resourceCard"
+    headerColor="#0088CC"
+    title="Close a Project"
+    subtitle="Official - Catalyst"
+    url="https://drive.google.com/drive/folders/1SSW2afDX5w30aTZYF3p7o7rLUep7v0TJ"
+    linkText="Go to Page"
+    text="A 2/3 page written summary ‘Project Close Report’ listing KPIs and how they were (or were not) addressed and what the next stage plans are with the product or service that was developed. " />
+    
 </div>
