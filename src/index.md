@@ -43,8 +43,8 @@ footer: Made by Catalyst Community with ❤️
 ---
 
 <NewsScroll :items="[
-  {'link':'/en/news/#Fund-7',
-   'text':'Current funding round Fund 7 is upon us - see the timeline'},
+  {'link':'/en/news/#Fund-8',
+   'text':'Current funding round Fund 8 is upon us - see the timeline'},
   {'link':'/en/news/#cardano-stack-exchange-launched',
    'text':'Cardano Stack Exchange Launched'}
   ]"/>
