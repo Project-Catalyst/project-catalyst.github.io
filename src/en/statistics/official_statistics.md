@@ -19,5 +19,9 @@
 |
 | Sumbitted Proposals Fund 7 | Proposals submitted to Project Catalyst Fund 7 | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1HhZyUMeZYtYlM7t119fhCpi30rKBh__HDHUa8WkoTJQ/edit#gid=420201753) |
 | Project Catalyst - Funded Projects Reporting (public MVP) | Funded Proposal Reprts | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=416498551) |
+|
+|**CA/vCA Process**
+| vCA Aggregated - Fund 8 | Results from vCA review of CA assessments - Raw Data | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1hHp4YTEvEuOtXHZzlGESBx-UtOtd9pxjbXWXzDpyY6I/edit#gid=2087818213) |
+
 
 
