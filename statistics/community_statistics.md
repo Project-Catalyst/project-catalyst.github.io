@@ -2,7 +2,7 @@
 title: community_statistics
 description: 
 published: true
-date: 2022-05-18T13:01:45.917Z
+date: 2022-05-23T08:33:10.828Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:10.009Z
@@ -13,7 +13,7 @@ dateCreated: 2022-05-17T16:27:10.009Z
 | Name         | Details | Collected By | Data Source |
 |:----------------------|:-------------------------------------------------------------------------|:-----------:|-----------:|
 |**Voter Surveys**|
-|Fund 6 Incentivised voter survey| |Cardano AIM| 
+|Fund 6 Incentivised voter survey| |Cardano AIM| [Voter Survey - Fund 6](en/statistics/community_statistics/surveys/voter_survey)
 
 |**Fund Results**|
 |
