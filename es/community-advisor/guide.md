@@ -1,3 +1,13 @@
+---
+title: guide
+description: 
+published: true
+date: 2022-05-17T16:27:55.815Z
+tags: 
+editor: markdown
+dateCreated: 2022-05-17T16:27:51.984Z
+---
+
 __Estamos buscando traductores, si te interesa contribuir visita [la página de GitHub](https://github.com/Project-Catalyst/project-catalyst.github.io)__
 
 # Community Advisor Guide

@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2022-05-17T16:28:34.720Z
+tags: 
+editor: markdown
+dateCreated: 2022-05-17T16:28:31.290Z
+---
+
 __Estamos buscando traductores, si te interesa contribuir visita [la página de GitHub](https://github.com/Project-Catalyst/project-catalyst.github.io)__
 
 # Resources

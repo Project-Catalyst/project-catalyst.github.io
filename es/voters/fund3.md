@@ -1,3 +1,13 @@
+---
+title: fund3
+description: 
+published: true
+date: 2022-05-17T16:28:56.697Z
+tags: 
+editor: markdown
+dateCreated: 2022-05-17T16:28:52.890Z
+---
+
 __Estamos buscando traductores, si te interesa contribuir visita [la página de GitHub](https://github.com/Project-Catalyst/project-catalyst.github.io)__
 
 # What is Catalyst Fund3
