@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-06-10T10:38:25.886Z
+date: 2022-06-10T10:49:58.477Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-10T10:09:27.554Z
@@ -49,7 +49,7 @@ features:
       title: Resources for Community Advisors
       url: /en/community-advisor/
     
-footer: Made by Catalyst Community with ❤️
+footer: Made by Catalyst Community with TEST ❤️
 ---
 
 <NewsScroll :items="[
