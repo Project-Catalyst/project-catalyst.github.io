@@ -2,7 +2,7 @@
 title: official_statistics
 description: 
 published: true
-date: 2022-06-13T11:38:49.145Z
+date: 2022-06-13T11:41:09.750Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:15.139Z
@@ -22,11 +22,9 @@ dateCreated: 2022-05-17T16:27:15.139Z
 | Fund2 Voting results | Breakdown of results of ADA holder votes for Fund 2 of Project Catalyst. | IO Catalyst | [Google Drive](https://drive.google.com/file/d/1ZEM12Mbc-gkdNrTg03-ORbGg3DUpug8A/view) | [PDF](https://static.iohk.io/docs/catalyst/catalyst-voting-results-fund2.pdf) |
 | Fund1 Voting results | Fund1 was the first time the idea was introduced to the community. This voting cicle did not offer real funding. | N/A | No data available | |
 |**Treasury**
-| Cardano Treasury | Details of the Cardano Catalyst Treasury, Circulation, Reserves and Rewards Allocations | Official - Data (Kevin Hammond) | [Google Drive](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0) |
-|
-|**Submitted Proposals**||
-|
-| Sumbitted Proposals Fund 7 | Proposals submitted to Project Catalyst Fund 7 | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1HhZyUMeZYtYlM7t119fhCpi30rKBh__HDHUa8WkoTJQ/edit#gid=420201753) |
-| Project Catalyst - Funded Projects Reporting (public MVP) | Funded Proposal Reprts | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=416498551) |
+| Cardano Treasury | Details of the Cardano Catalyst Treasury, Circulation, Reserves and Rewards Allocations | Official - Data (Kevin Hammond) | [Google Drive](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0) | | |
+|**Submitted Proposals**
+| Sumbitted Proposals Fund 7 | Proposals submitted to Project Catalyst Fund 7 | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1HhZyUMeZYtYlM7t119fhCpi30rKBh__HDHUa8WkoTJQ/edit#gid=420201753) | |
+| Project Catalyst - Funded Projects Reporting (public MVP) | Funded Proposal Reprts | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit#gid=416498551) | |
 
 
