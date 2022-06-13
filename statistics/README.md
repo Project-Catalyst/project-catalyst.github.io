@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-06-13T11:47:01.204Z
+date: 2022-06-13T11:56:19.478Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:05.222Z
@@ -45,7 +45,7 @@ dateCreated: 2022-05-17T16:27:05.222Z
     headerColor="#8FD14F"
     title="Community Statistics"
     subtitle= "Community Generated Statistics" 
-    url="/statistics/community_statistics"
+    url="/statistics/community_statistics_page"
     linkText="Go to Page"
     target="_self"
     text="Statistics generated through works undertaken by the community and shared with the community. " />
