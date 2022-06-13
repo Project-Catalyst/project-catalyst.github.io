@@ -2,7 +2,7 @@
 title: official_statistics
 description: 
 published: true
-date: 2022-06-13T11:27:11.312Z
+date: 2022-06-13T11:33:00.292Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:15.139Z
@@ -11,7 +11,7 @@ dateCreated: 2022-05-17T16:27:15.139Z
 # Official Statistics & Data
 
 | Name         | Details | Collected By | Data Source Raw | Data Source Formatted
-|:----------------------|:-------------------------------------------------------------------------|:-----------:|-----------:|
+|:----------------------|:-------------------------------------------------------------------------|:-----------:|-----------:|-----------:|
 |**Fund Results**| [Project Catalyst - Funded Projects Reporting](https://bit.ly/FundedProjectsReporting)
 |
 | Fund8 Voting results | Breakdown of results of ADA holder votes for Fund 8 of Project Catalyst. | IO Catalyst | [Google Drive](https://drive.google.com/file/d/1s3jCE7pmoUujy3ASMia-UhFl2KLi_hnf/view) | [PDF](https://drive.google.com/file/d/1s3jCE7pmoUujy3ASMia-UhFl2KLi_hnf/view) |
