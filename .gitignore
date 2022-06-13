@@ -1,0 +1,6 @@
+.env
+.history
+node_modules
+html
+
+*key.txt
