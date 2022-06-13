@@ -2,7 +2,7 @@
 title: fund3
 description: 
 published: true
-date: 2022-05-17T16:28:56.697Z
+date: 2022-06-13T10:52:14.364Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:28:52.890Z
