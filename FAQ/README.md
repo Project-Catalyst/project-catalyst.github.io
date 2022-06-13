@@ -2,10 +2,10 @@
 title: FAQ
 description: 
 published: true
-date: 2022-06-10T09:49:18.759Z
+date: 2022-06-13T08:57:31.474Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T16:26:28.195Z
+dateCreated: 2022-06-13T08:57:27.082Z
 ---
 
 # Project Catalyst FAQ

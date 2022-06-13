@@ -2,10 +2,10 @@
 title: community_advisor_guides
 description: 
 published: true
-date: 2022-05-17T16:26:10.389Z
+date: 2022-06-13T08:57:46.904Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T16:26:06.707Z
+dateCreated: 2022-06-13T08:57:43.286Z
 ---
 
 # Expert ballots

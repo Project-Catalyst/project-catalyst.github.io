@@ -2,12 +2,11 @@
 title: guide
 description: 
 published: true
-date: 2022-05-17T16:26:15.723Z
+date: 2022-06-13T08:57:52.064Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T16:26:12.054Z
+dateCreated: 2022-06-13T08:57:48.506Z
 ---
-
 
 # Community Advisor Assessment Guide
 ### Guidelines for the application of Scoring Criteria during the assessment stage of in the Cardano Project Catalyst Fund Process
