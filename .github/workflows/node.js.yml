@@ -19,8 +19,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: Use cache
-      uses: c-hive/gha-yarn-cache@v2
     - name: Install dependencies
       run: yarn install --frozen-lockfile
     - name: create env file
