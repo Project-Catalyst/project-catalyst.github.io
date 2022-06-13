@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-06-13T10:59:21.809Z
+date: 2022-06-13T11:47:01.204Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:05.222Z
@@ -35,7 +35,7 @@ dateCreated: 2022-05-17T16:27:05.222Z
     headerColor="#0088CC"
     title="'Offical' Analysis"
     subtitle="Analysis of the offical statistics by IOGs Catalyst team and other recognised community analysts."
-    url="/en/statistics/official_analysis.html"
+    url="/statistics/official_analysis"
     linkText="Go to Page"
     target="_self"
     text="The vCA-tool was designed allow vCAs (veteren Community advisors to provide a better user experience and a better way tocoordinate the vCA work." />
@@ -45,7 +45,7 @@ dateCreated: 2022-05-17T16:27:05.222Z
     headerColor="#8FD14F"
     title="Community Statistics"
     subtitle= "Community Generated Statistics" 
-    url="/en/statistics/community_statistics.html"
+    url="/statistics/community_statistics"
     linkText="Go to Page"
     target="_self"
     text="Statistics generated through works undertaken by the community and shared with the community. " />
@@ -55,7 +55,7 @@ dateCreated: 2022-05-17T16:27:05.222Z
     headerColor="#8FD14F"
     title="Community Analysis"
     subtitle="Shared pool of analysis undertaken by the community"
-    url="/en/statistics/community_analysis.html"
+    url="/statistics/community_analysis"
     linkText="Go to Page"
     target="_self"
     text="These are analysis undertaken by the community on both offical and community statistics. If you have analysis that you wish to share please contact us on [Telegram]|(https://t.me/cardanoaim_official)" />
