@@ -2,7 +2,7 @@
 title: official_statistics
 description: 
 published: true
-date: 2022-06-13T11:37:07.927Z
+date: 2022-06-13T11:38:49.145Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:15.139Z
@@ -20,8 +20,7 @@ dateCreated: 2022-05-17T16:27:15.139Z
 | Fund4 Voting results | Breakdown of results of ADA holder votes for Fund 4 of Project Catalyst. | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/13NC6SZ5MzQsYb-ufbuQHakxvLvPtZWv_02Aq17PFErI/edit#gid=1538672709) | [PDF](https://drive.google.com/file/d/19VMTYn_sv5Xsp2mC5VUN_-z_aXYHL_Dd/view) |
 | Fund3 Voting results | Breakdown of results of ADA holder votes for Fund 3 of Project Catalyst. | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1ibl-9qpLRQiFhJQfcvIeSdfJr9LjGpU6WqHce6VIUnE/edit#gid=1538672709) | [PDF](https://drive.google.com/file/d/1X6BnuFBvNO8yF2DeUgBqA3yyYSvqeKvg/view) |
 | Fund2 Voting results | Breakdown of results of ADA holder votes for Fund 2 of Project Catalyst. | IO Catalyst | [Google Drive](https://drive.google.com/file/d/1ZEM12Mbc-gkdNrTg03-ORbGg3DUpug8A/view) | [PDF](https://static.iohk.io/docs/catalyst/catalyst-voting-results-fund2.pdf) |
-| Fund1 Voting results | Fund1 was the first time the idea was introduced to the community. This voting cicle did not offer real funding. | N/A | No data available |
-|
+| Fund1 Voting results | Fund1 was the first time the idea was introduced to the community. This voting cicle did not offer real funding. | N/A | No data available | |
 |**Treasury**
 | Cardano Treasury | Details of the Cardano Catalyst Treasury, Circulation, Reserves and Rewards Allocations | Official - Data (Kevin Hammond) | [Google Drive](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0) |
 |
