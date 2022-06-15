@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-06-13T10:49:33.908Z
+date: 2022-06-15T21:58:05.615Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-10T10:09:27.554Z
@@ -33,21 +33,21 @@ features:
     details: A proposer is someone who submits a proposal to Cardano Project Catalyst to be funded by the treasury. They have an understanding of a problem and an idea on how to solve it. Proposers are the ideas people, ones that see the bigger picture,  identify needs, look to plug gaps. They are visionaries. A proposal is the way to  communicate the idea to the community.
     link:
       title: Resources for proposers
-      url: /en/proposers/
+      url: /proposers/
 
   - title: Voters
     url: /en/voters/
     details: A voter is holds ada and actively participates in the governance of Cardano Project Catalyst. They are the ultimate deciders of the direction of the project. The review proposers proposals and vote up or vote down the proposals they would like or dislike to see implemented. They are the stewards of Cardano and by voting they bring Cardano closer to its vision.
     link:
       title: Resources for voters
-      url: /en/voters/
+      url: /voters/
 
   - title: Community Advisor
     url: /en/community-advisor/
     details: A Community Advisor (CA) is a community member participates in the quality assurance of proposals. They have the task of reviewing proposals submitted to a given fund and supplying quality information to voters and proposers.  Further, a community advisors is anyone  who participates in the community to develop, assist, advise, improve... project catalyst.
     link:
       title: Resources for Community Advisors
-      url: /en/community-advisor/
+      url: /community-advisor/
     
 footer: Made by Catalyst Community with ❤️
 ---
