@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-06-13T10:49:51.052Z
+date: 2022-06-16T14:54:49.958Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-13T08:57:38.139Z
@@ -33,7 +33,7 @@ dateCreated: 2022-06-13T08:57:38.139Z
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title="CA Guide"
+    title="PA Guide"
     subtitle="Official - Project Catalyst"
     url="/en/community-advisor/guide.html"
     target="_self"
