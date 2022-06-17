@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-06-13T10:50:28.215Z
+date: 2022-06-17T20:12:44.822Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:26:44.642Z
@@ -35,7 +35,7 @@ dateCreated: 2022-05-17T16:26:44.642Z
     headerColor="#0088CC"
     title="Proposer Guide"
     subtitle="Official - Project Catalyst"
-    url="/en/proposers/guide.html"
+    url="/proposers/guide.html"
     target="_self"
     linkText="Go to Page"
     text="Informaion about proposing in Project Catalyst. " />
