@@ -64,7 +64,7 @@ module.exports = async function () {
       locales,
     },
 
-    plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+    plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom", ['vuepress-plugin-redirect',{'locales':true}]],
 
     additionalPages,
     extraWatchFiles: ["wikijs/**/*.js"],
