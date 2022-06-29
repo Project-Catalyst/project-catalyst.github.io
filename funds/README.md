@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-06-13T10:50:20.095Z
+date: 2022-06-29T13:06:06.884Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:26:33.955Z
@@ -41,7 +41,5 @@ If you notice any inaccuracies please feel free to contact us.
                 subtitle="Assess QA - END"
                 date="2021-05-12T19:00"/>-->
 
-<div style="height: calc(92% - 100px); margin-bottom:100px;">
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrDfTcTedMaHEHMj?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc"></iframe>
-</div>
+![fund_9_timeline.png](/_assets/fund_timeline/fund_9_timeline.png)
 
