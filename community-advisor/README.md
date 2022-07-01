@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-06-16T14:54:49.958Z
+date: 2022-07-01T08:22:45.116Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-13T08:57:38.139Z
@@ -10,7 +10,7 @@ dateCreated: 2022-06-13T08:57:38.139Z
 
 
 
-# Community Advisor Resources
+# Proposal Assessor Resources
 
 <style>
 .theme-default-content:not(.custom){
