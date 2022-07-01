@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-06-20T08:23:39.079Z
+date: 2022-07-01T08:26:48.979Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-10T10:09:27.554Z
@@ -42,12 +42,12 @@ features:
       title: Resources for voters
       url: /voters/
 
-  - title: Community Advisor
-    url: /community-advisor/
-    details: A Community Advisor (CA) is a community member participates in the quality assurance of proposals. They have the task of reviewing proposals submitted to a given fund and supplying quality information to voters and proposers.  Further, a community advisors is anyone  who participates in the community to develop, assist, advise, improve... project catalyst.
+  - title: Proposal Assessor
+    url: /proposal-assessor/
+    details: A Proposal Assessor (PA) is a community member participates in the quality assurance of proposals. They have the task of reviewing proposals submitted to a given fund and supplying quality information to voters and proposers.  Further, a community advisors is anyone  who participates in the community to develop, assist, advise, improve... project catalyst.
     link:
-      title: Resources for Community Advisors
-      url: /community-advisor/
+      title: Resources for Proposal Assessors
+      url: /proposal-assessor/
     
 footer: Made by Catalyst Community with ❤️
 ---
