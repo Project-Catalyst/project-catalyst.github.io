@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-06-29T13:06:06.884Z
+date: 2022-07-01T08:53:15.993Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:26:33.955Z
@@ -41,5 +41,4 @@ If you notice any inaccuracies please feel free to contact us.
                 subtitle="Assess QA - END"
                 date="2021-05-12T19:00"/>-->
 
-![fund_9_timeline.png](/_assets/fund_timeline/fund_9_timeline.png)
-
+<img src="https://wiki.cardanocataly.st/_assets/fund_timeline/fund_9_timeline.png"/>
