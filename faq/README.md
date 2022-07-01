@@ -1,11 +1,11 @@
 ---
-title: README
+title: FAQ
 description: 
 published: true
-date: 2022-06-13T10:50:14.232Z
+date: 2022-06-13T08:57:31.474Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-13T10:50:09.319Z
+dateCreated: 2022-06-13T08:57:27.082Z
 ---
 
 # Project Catalyst FAQ
