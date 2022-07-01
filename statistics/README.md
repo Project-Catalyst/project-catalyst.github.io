@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-07-01T09:00:00.413Z
+date: 2022-07-01T09:01:39.400Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:05.222Z
@@ -61,4 +61,12 @@ dateCreated: 2022-05-17T16:27:05.222Z
     target="_self"
     text="These are analysis undertaken by the community on both offical and community statistics. If you have analysis that you wish to share please contact us on [Telegram]|(https://t.me/cardanoaim_official)" />
 -->
+  <ResourceCard
+    class="resourceCard"
+    headerColor="#8FD14F"
+    title="Voter Survey Results"
+    url="/statistics/voter_survey/"
+    linkText="Go to Page"
+    target="_self"
+    text="Results of a survey conducted among voters" />
 </div>
