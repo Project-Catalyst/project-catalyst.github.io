@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-06-13T10:51:00.383Z
+date: 2022-07-01T07:27:28.894Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:20.110Z
@@ -33,11 +33,11 @@ dateCreated: 2022-05-17T16:27:20.110Z
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="CA-Tool"
-    subtitle="https://cardanocataly.st/ca-tool"
-    url="https://cardanocataly.st/ca-tool/#/"
+    title="PA-Tool"
+    subtitle="https://cardanocataly.st/pa-tool"
+    url="https://cardanocataly.st/pa-tool/#/"
     linkText="Go to Page"
-    text="The CA (Community Advisor) tool was created from need. It was created to offer a way for CAs to choose proposals to assess and to keep track of theses assessments. " />
+    text="The PA (Proposal Assessor (formerlly - CA Community Advisor) tool was created from need. It was created to offer a way for CAs (now PAs) to choose proposals to assess and to keep track of theses assessments. " />
     
 <ResourceCard
     class="resourceCard"
