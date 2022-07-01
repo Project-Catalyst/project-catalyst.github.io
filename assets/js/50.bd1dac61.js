@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{562:function(t,e,n){"use strict";n.r(e);var o=n(39),s=Object(o.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("h1",[this._v(" CA tool has been renamed to PA tool")])])}),[],!1,null,null,null);e.default=s.exports}}]);
