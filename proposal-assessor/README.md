@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-07-01T08:22:45.116Z
+date: 2022-07-01T08:40:29.049Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-13T08:57:38.139Z
@@ -35,15 +35,15 @@ dateCreated: 2022-06-13T08:57:38.139Z
     headerColor="#0088CC"
     title="PA Guide"
     subtitle="Official - Project Catalyst"
-    url="/en/community-advisor/guide.html"
+    url="/en/proposal-assessor/guide"
     target="_self"
     linkText="Go to Page"
-    text="Information for Community Advisors (CA). " />
+    text="Information for Proposal Assessors (PA). " />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title="Project Catalyst Community Advisors"
+    title="Project Catalyst Proposal Assessors"
     subtitle="Official - Discord"
     url="https://discord.gg/uPv97TvGvC"
     linkText="Go to Page"
@@ -57,37 +57,37 @@ dateCreated: 2022-06-13T08:57:38.139Z
     url="https://t.me/CatalystCommunityAdvisors"
     target="_self"
     linkText="Go to Page"
-    text="Telegram channel to discuss and network with new and exisiting Community Advisors (CAs). " />
+    text="Telegram channel to discuss and network with new and exisiting Proposal Assessors (PAs). " />
     
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="Community Advisor Guidelines"
+    title="Proposal Assessor Guidelines"
     subtitle="Community"
-    url="/en/community-advisor/community_advisor_guides.html"
+    url="/en/proposal-assessor/proposal_assessor_guides"
     target="_self"
     linkText="Go to Page"
-    text="Community made Community Advisor guides. " />
+    text="Community made Proposal Assessor guides. " />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="Community Advisor Tool"
+    title="Proposal Assessor Tool"
     subtitle=""
-    url="https://cardanocataly.st/ca-tool/#/"
+    url="https://cardanocataly.st/pa-tool/#/"
     target="_blank"
     linkText="Go to Page"
-    text="A community built and maintained tool to make Community Advisor work less time consuming (work in progress)" />
+    text="A community built and maintained tool to make Proposal Assessor work less time consuming (work in progress)" />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="Veteran Community Advisor Tool"
+    title="Veteran Proposal Assessor Tool"
     subtitle=""
-    url="https://cardanocataly.st/vca-tool/#/"
+    url="https://cardanocataly.st/vcpa-tool/#/"
     target="_blank"
     linkText="Go to Page"
-    text="A community built and maintained tool to make Veteran Community Advisor work less time consuming (work in progress)" />
+    text="A community built and maintained tool to make Veteran Proposal Assessor work less time consuming (work in progress)" />
 
 </div>
 
