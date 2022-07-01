@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-07-01T08:40:29.049Z
+date: 2022-07-01T08:43:29.051Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-13T08:57:38.139Z
@@ -84,7 +84,7 @@ dateCreated: 2022-06-13T08:57:38.139Z
     headerColor="#8FD14F"
     title="Veteran Proposal Assessor Tool"
     subtitle=""
-    url="https://cardanocataly.st/vcpa-tool/#/"
+    url="https://cardanocataly.st/vca-tool/#/"
     target="_blank"
     linkText="Go to Page"
     text="A community built and maintained tool to make Veteran Proposal Assessor work less time consuming (work in progress)" />
