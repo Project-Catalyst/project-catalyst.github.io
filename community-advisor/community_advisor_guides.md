@@ -1,8 +1,8 @@
 ---
-title: community_advisor_guides
+title: proposal_assessor_guides
 description: 
 published: true
-date: 2022-06-13T10:49:55.379Z
+date: 2022-07-01T08:24:26.975Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-13T08:57:43.286Z
