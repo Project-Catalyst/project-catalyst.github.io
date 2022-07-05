@@ -2,7 +2,7 @@
 title: Community
 description: Links to community
 published: true
-date: 2022-07-05T13:15:17.806Z
+date: 2022-07-05T13:17:42.669Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-05T12:26:28.807Z
@@ -23,6 +23,7 @@ dateCreated: 2022-07-05T12:26:28.807Z
     class="resourceCard"
     headerColor="#001D9D"
     title="Catalyst United"
+    subtitle=""
     url="/en/community/catalyst-united"
     linkText="Go to Page"/>
 
@@ -30,6 +31,7 @@ dateCreated: 2022-07-05T12:26:28.807Z
     class="resourceCard"
     headerColor="#0088CC"
     title="Cardano for Climate"
+    subtitle=""
     subtitle="Making the world work better for all people, animals, and the living planet."
     url="https://cardano4climate.com/"
     target="_self"
