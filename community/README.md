@@ -2,7 +2,7 @@
 title: Community
 description: Links to community
 published: true
-date: 2022-07-05T13:27:01.930Z
+date: 2022-07-05T13:31:58.024Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-05T12:26:28.807Z
@@ -25,6 +25,7 @@ dateCreated: 2022-07-05T12:26:28.807Z
     title="Catalyst United"
     subtitle=""
     url="/community/catalyst-united"
+    target="_self"
 		text=""
     linkText="Go to Page"/>
 
