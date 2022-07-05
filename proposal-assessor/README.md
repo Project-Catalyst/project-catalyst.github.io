@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-07-01T08:43:29.051Z
+date: 2022-07-05T13:28:31.242Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-13T08:57:38.139Z
@@ -35,7 +35,7 @@ dateCreated: 2022-06-13T08:57:38.139Z
     headerColor="#0088CC"
     title="PA Guide"
     subtitle="Official - Project Catalyst"
-    url="/en/proposal-assessor/guide"
+    url="/proposal-assessor/guide"
     target="_self"
     linkText="Go to Page"
     text="Information for Proposal Assessors (PA). " />
@@ -64,7 +64,7 @@ dateCreated: 2022-06-13T08:57:38.139Z
     headerColor="#8FD14F"
     title="Proposal Assessor Guidelines"
     subtitle="Community"
-    url="/en/proposal-assessor/proposal_assessor_guides"
+    url="/proposal-assessor/proposal_assessor_guides"
     target="_self"
     linkText="Go to Page"
     text="Community made Proposal Assessor guides. " />
