@@ -2,7 +2,7 @@
 title: Community
 description: Links to community
 published: true
-date: 2022-07-05T13:31:58.024Z
+date: 2022-07-05T13:57:06.361Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-05T12:26:28.807Z
@@ -34,7 +34,7 @@ dateCreated: 2022-07-05T12:26:28.807Z
     headerColor="#8FD14F"
     title="Cardano for Climate"
     subtitle="Making the world work better for all people, animals, and the living planet."
-    url="/community/cardano4climate/home"
+    url="/community/cardano4climate/"
     target="_self"
 		text=""
     linkText="Go to Cardano for Climate"/>
