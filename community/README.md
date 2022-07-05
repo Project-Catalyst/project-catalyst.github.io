@@ -2,7 +2,7 @@
 title: Community
 description: Links to community
 published: true
-date: 2022-07-05T12:33:01.641Z
+date: 2022-07-05T13:15:17.806Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-05T12:26:28.807Z
@@ -23,10 +23,8 @@ dateCreated: 2022-07-05T12:26:28.807Z
     class="resourceCard"
     headerColor="#001D9D"
     title="Catalyst United"
-    subtitle=""
-    url="#"
-    linkText="Go to Page"
-    text="" />
+    url="/en/community/catalyst-united"
+    linkText="Go to Page"/>
 
 <ResourceCard
     class="resourceCard"
