@@ -2,7 +2,7 @@
 title: Community
 description: Links to community
 published: true
-date: 2022-07-05T13:20:08.889Z
+date: 2022-07-05T13:23:03.765Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-05T12:26:28.807Z
@@ -32,7 +32,6 @@ dateCreated: 2022-07-05T12:26:28.807Z
     class="resourceCard"
     headerColor="#0088CC"
     title="Cardano for Climate"
-    subtitle=""
     subtitle="Making the world work better for all people, animals, and the living planet."
     url="https://cardano4climate.com/"
     target="_self"
