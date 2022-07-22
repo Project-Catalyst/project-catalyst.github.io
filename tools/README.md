@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-07-01T07:27:28.894Z
+date: 2022-07-22T10:13:17.939Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:20.110Z
@@ -51,11 +51,11 @@ dateCreated: 2022-05-17T16:27:20.110Z
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="vCA-Tool"
-    subtitle="https://cardanocataly.st/vca-tool/#/"
-    url="https://cardanocataly.st/vca-tool/#/"
+    title="vPA-Tool"
+    subtitle="https://cardanocataly.st/vpa-tool/#/"
+    url="https://cardanocataly.st/vpa-tool/#/"
     linkText="Go to Page"
-    text="The vCA-tool was designed allow vCAs (veteren Community advisors to provide a better user experience and a better way tocoordinate the vCA work." />
+    text="The vPA-tool was designed allow vPAs (Veteran Proposal Assessors to provide a better user experience and a better way tocoordinate the vPA work." />
     
 <ResourceCard
     class="resourceCard"
