@@ -1,7 +1,7 @@
 {
   "name": "wikijs-vuepress",
   "description": "A landing page for everyone who wants to know about Project Catalyst. A hub gathering information and linking to other resources in the Cardano ecosystem",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "sandbox": "nodemon sandbox.js",
     "dev": "vuepress dev src",
