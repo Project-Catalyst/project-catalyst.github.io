@@ -2,7 +2,8 @@ name: Project Catalyst Node.js CI
 
 on:
   push:
-    branches: [ wiki, graphql ]
+    branches: 
+      - graphql
 jobs:
   build:
 
