@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-09-20T10:47:36.974Z
+date: 2022-09-29T14:44:50.816Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:26:44.642Z
@@ -26,9 +26,11 @@ dateCreated: 2022-05-17T16:26:44.642Z
     headerColor="#0088CC"
     title="Submit a proposal"
     subtitle="Official - Ideascale"
-    url="https://intercom.help/ideascale/en/articles/682959-submit-an-idea"
+    url="https://cardano.ideascale.com"
     linkText="Go to Page"
-    text="Idea submission is one of the key factors in crowdsourcing which initially collects votes and comments from community participants and later goes through various funnels under the supervision of experts and eventually gets implemented in an ideal world. Note: replace idea with proposal in the case of Project Catalyst. " />
+    text="Project Catalyst is an experiment in community innovation, providing a framework to turn ideas into impactful real world projects.
+
+We're putting the community at the heart of Cardano's future development. Are you ready for the Challenge? " />
 
 <ResourceCard
     class="resourceCard"
@@ -61,19 +63,19 @@ dateCreated: 2022-05-17T16:26:44.642Z
 <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
-    title="CA Roles & responsibilities"
+    title="PA resources"
     subtitle=""
-    url="/en/community-advisor/"
+    url="/proposal-assessor/"
     target="_self"
     linkText="Go to Page"
-    text="Explanation of Community Advisor (CA) roles and responsibilities " />
+    text="Resources relavent to Proposal Assessors (formerly Community Advisors (CA)). " />
 
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
     title="Proposer Guidelines - Community"
     subtitle=""
-    url="/en/proposers/proposer_guidelines.html"
+    url="/proposers/proposer_guidelines.html"
     target="_self"
     linkText="Go to Page"
     text="Community made proposer guides. " />
