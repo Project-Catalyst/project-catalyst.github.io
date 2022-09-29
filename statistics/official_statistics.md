@@ -2,7 +2,7 @@
 title: official_statistics
 description: 
 published: true
-date: 2022-06-13T11:43:22.795Z
+date: 2022-09-29T13:22:29.571Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:27:15.139Z
@@ -13,6 +13,7 @@ dateCreated: 2022-05-17T16:27:15.139Z
 | Name         | Details | Collected By | Data Source Raw | Data Source Formatted |
 |:----------------------|:-------------------------------------------------------------------------|:-----------:|-----------:|-----------:|
 |**Fund Results**| [Project Catalyst - Funded Projects Reporting](https://bit.ly/FundedProjectsReporting)| | | | |
+| Fund9 Voting results | Breakdown of results of ADA holder votes for Fund 9 of Project Catalyst. | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1MycQL-dkqf1xEW8xcr7vqcfHY6D7MHnG9ylDKNLSnAA/edit#gid=2095761837) | [PDF](https://bit.ly/Fund9_Results) |
 | Fund8 Voting results | Breakdown of results of ADA holder votes for Fund 8 of Project Catalyst. | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/15ELXp81NfvXHgrerTbuIofZOXBsdjocN1YgBK0gPP3E/edit#gid=2111315347) | [PDF](https://drive.google.com/file/d/1s3jCE7pmoUujy3ASMia-UhFl2KLi_hnf/view) |
 | Fund7 Voting results | Breakdown of results of ADA holder votes for Fund 7 of Project Catalyst. | IO Catalyst | [Google Drive](https://drive.google.com/file/d/193GZulHuk0zhpTrMiLhcNC4OeEMoRyIa/view) | [PDF](https://drive.google.com/file/d/193GZulHuk0zhpTrMiLhcNC4OeEMoRyIa/view) |
 | Fund6 Voting results | Breakdown of results of ADA holder votes for Fund 6 of Project Catalyst. | IO Catalyst | [Google Drive](https://docs.google.com/spreadsheets/d/1y-7U88FRvsEEzm98KbEswUGuy4q-eTeoFTV3EFrc6b4/edit#gid=1183771745) | [PDF](https://drive.google.com/file/d/13h5JFtwqyylMUNMoRGXQZ-FJEM4bznOJ/view?usp=sharing) |
