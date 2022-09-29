@@ -2,10 +2,10 @@
 title: FAQ
 description: 
 published: true
-date: 2022-06-13T08:57:31.474Z
+date: 2022-09-29T14:32:26.566Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-13T08:57:27.082Z
+dateCreated: 2022-06-13T10:50:09.319Z
 ---
 
 # Project Catalyst FAQ
@@ -21,11 +21,6 @@ Project Catalyst FAQ [original source](https://docs.google.com/document/d/1qYtV1
 [Treasury summary blog](https://iohk.io/en/blog/posts/2020/09/10/project-catalyst-voltaire-bring-power-to-the-people/)
 [Treasury amount tracker](https://docs.google.com/spreadsheets/d/1xny1W7HhHANLNeQcnbr8El5rakJ80VIM7fgDwJ-uqys/edit#gid=0).
 [Rules of conduct](https://docs.google.com/document/d/1G__eWrmsUxecET2e3zIniPSQJ-FWI1YAGJ-vLwzm8U8/edit)
-
-## Ideascale documents
-
-[New user guide](https://intercom.help/ideascale/en/collections/2406712-new-user-guide)
-[Kudos FAQ](https://support.ideascale.com/en/articles/4197062-faq-on-kudos)
 
 ## Videos
 
