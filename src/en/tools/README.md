@@ -33,16 +33,16 @@
     class="resourceCard"
     headerColor="#8FD14F"
     title="Proposal-Review-tool"
-    subtitle="https://cardanocataly.st/proposal-review-tool/"
+    subtitle="https://cardanocataly.st/proposal-review-tool"
     url="https://cardanocataly.st/proposal-review-tool/"
     linkText="Go to Page"
-    text="The Proposal tool was created to assist proposers during the review of the CA assessments. It was created to offer a way for proposers to engage in the QA phase and provide a user friendly interface through whihch to review and flag CA assessments. " />
+    text="The Proposal tool was created to assist proposers during the review of the CA assessments. It was created to offer a way for proposers to engage in the QA phase and provide a user friendly interface through whihch to review and flag CA assessments." />
     
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
     title="vCA-Tool"
-    subtitle="https://cardanocataly.st/vca-tool/#/"
+    subtitle="https://cardanocataly.st/vca-tool"
     url="https://cardanocataly.st/vca-tool/#/"
     linkText="Go to Page"
     text="The vCA-tool was designed allow vCAs (veteren Community advisors to provide a better user experience and a better way tocoordinate the vCA work." />
@@ -55,6 +55,15 @@
     url="https://cardanocataly.st/voter-tool/#/"
     linkText="Go to Page"
     text="Voter-tool is a part of the AIM Community Tool series developed by the community for the community. It is designed to assist you in your analysis of Cardano Project Catalyst proposals and create a voting guide." />
+
+<ResourceCard
+    class="resourceCard"
+    headerColor="#8FD14F"
+    title="PA-ID-Finder-Tool"
+    subtitle="https://cardanocataly.st/pa-id-finder"
+    url="https://cardanocataly.st/pa-id-finder/#/"
+    linkText="Go to Page"
+    text="PA-ID-Finder is a tool designed to assist Proposal Assessors (PAs) on finding out their anonymous ID in previous funds. By discovering their own ID, a PA can have access to all their assessments and other relevant information." />
 
 </div>
 
