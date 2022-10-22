@@ -16,7 +16,7 @@
     headerColor="#0088CC"
     title="Submit a proposal"
     subtitle="Official - Ideascale"
-    url="https://intercom.help/ideascale/en/articles/682959-submit-an-idea"
+    url="https://cardano.ideascale.com/c/home"
     linkText="Go to Page"
     text="Idea submission is one of the key factors in crowdsourcing which initially collects votes and comments from community participants and later goes through various funnels under the supervision of experts and eventually gets implemented in an ideal world. Note: replace idea with proposal in the case of Project Catalyst. " />
 
