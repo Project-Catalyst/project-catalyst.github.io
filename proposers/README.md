@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-09-29T14:44:50.816Z
+date: 2022-10-23T15:51:18.947Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T16:26:44.642Z
@@ -22,6 +22,15 @@ dateCreated: 2022-05-17T16:26:44.642Z
 </style>
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:space-evenly; align-content:space-around">
 <ResourceCard
+    class="resourceCard"
+    headerColor="#0088CC"
+    title="Funded Proposal Regular Report"
+    subtitle="Official - Catalyst"
+    url="https://docs.google.com/forms/d/e/1FAIpQLSdS6wAzKdSR1mAwCHP0EkVqOVlszvU5E45B0G2-0HmjO6qgbA/viewform"
+    linkText="Go to Page"
+    text="Funded proposal montly community report form. Due by the 24th of the month.  " />
+  
+  <ResourceCard
     class="resourceCard"
     headerColor="#0088CC"
     title="Submit a proposal"
