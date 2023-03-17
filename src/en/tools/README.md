@@ -65,5 +65,13 @@
     linkText="Go to Page"
     text="PA-ID-Finder is a tool designed to assist Proposal Assessors (PAs) on finding out their anonymous ID in previous funds. By discovering their own ID, a PA can have access to all their assessments and other relevant information." />
 
+<ResourceCard
+    class="resourceCard"
+    headerColor="#8FD14F"
+    title="SDG Proposer Tool"
+    subtitle="https://cardanocataly.st/proposer-tool-sdg/"
+    url="https://cardanocataly.st/proposer-tool-sdg/#/"
+    linkText="Go to Page"
+    text="The Sustainable Development Goals SDG Tool is made to help you include SDGs in your proposal development process."  />
 </div>
 
