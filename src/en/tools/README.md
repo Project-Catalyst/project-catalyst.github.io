@@ -23,11 +23,11 @@
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="CA-Tool"
-    subtitle="https://cardanocataly.st/ca-tool"
-    url="https://cardanocataly.st/ca-tool/#/"
+    title="PA-Tool"
+    subtitle="https://cardanocataly.st/pa-tool"
+    url="https://cardanocataly.st/pa-tool/#/"
     linkText="Go to Page"
-    text="The CA (Community Advisor) tool was created from need. It was created to offer a way for CAs to choose proposals to assess and to keep track of theses assessments. " />
+    text="The PA (Proposal Assessor) tool was created from need. It was created to offer a way for PAs to choose proposals to assess and to keep track of theses assessments. " />
     
 <ResourceCard
     class="resourceCard"
@@ -36,16 +36,16 @@
     subtitle="https://cardanocataly.st/proposal-review-tool"
     url="https://cardanocataly.st/proposal-review-tool/"
     linkText="Go to Page"
-    text="The Proposal tool was created to assist proposers during the review of the CA assessments. It was created to offer a way for proposers to engage in the QA phase and provide a user friendly interface through whihch to review and flag CA assessments." />
+    text="The Proposal tool was created to assist proposers during the review of the PA assessments. It was created to offer a way for proposers to engage in the QA phase and provide a user friendly interface through whihch to review and flag CA assessments." />
     
 <ResourceCard
     class="resourceCard"
     headerColor="#8FD14F"
-    title="vCA-Tool"
-    subtitle="https://cardanocataly.st/vca-tool"
-    url="https://cardanocataly.st/vca-tool/#/"
+    title="vPA-Tool"
+    subtitle="https://cardanocataly.st/vpa-tool"
+    url="https://cardanocataly.st/vpa-tool/#/"
     linkText="Go to Page"
-    text="The vCA-tool was designed allow vCAs (veteren Community advisors to provide a better user experience and a better way tocoordinate the vCA work." />
+    text="The vPA-tool was designed allow vPAs (veteran Proposal Assessors to provide a better user experience and a better way tocoordinate the vPA work." />
     
 <ResourceCard
     class="resourceCard"
